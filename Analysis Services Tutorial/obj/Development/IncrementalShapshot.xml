@@ -40,7 +40,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>rrK1fS5RtT/iNpvxk/229xtL59Q=3/8/2012 8:39:54 AM8/20/2020 11:21:24 AM</TimeStamp>
+        <TimeStamp>8eWQH7SMt8cCQIr+ZfGUq94lPk0=8/20/2020 2:44:38 PM8/20/2020 11:21:24 AM</TimeStamp>
         <ID>
           <String>Customer</String>
         </ID>
@@ -68,7 +68,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>Uf8GI9RNxxzsE9iSrTG9pgmlYf8=8/20/2020 2:22:35 PM8/20/2020 11:21:24 AM</TimeStamp>
+        <TimeStamp>bF8xhn3pP3d2zeB5APn560L8Er8=8/20/2020 3:09:39 PM8/20/2020 11:21:24 AM</TimeStamp>
         <ID>
           <String>Employee</String>
         </ID>
@@ -106,5 +106,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2020-08-20T17:22:57.356667Z</LastDeployed>
+  <LastDeployed>2020-08-20T18:09:47.643333Z</LastDeployed>
 </DeploymentSnapshot>
