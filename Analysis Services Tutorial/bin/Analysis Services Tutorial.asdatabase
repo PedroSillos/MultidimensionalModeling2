@@ -558,7 +558,7 @@
           <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
           <Value>
             <dds xmlns="">
-              <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="8" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-965" scrolltop="-507" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="85" x="8805" y="11303" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="1" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+              <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="8" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-965" scrolltop="-22" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="85" x="8805" y="11303" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
                 <font>
                   <ddsxmlobjectstreamwrapper binary="010000009001b0300100065461686f6d61" />
                 </font>
@@ -630,7 +630,7 @@
         </Annotation>
         <Annotation>
           <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
-          <Value>-507</Value>
+          <Value>-22</Value>
         </Annotation>
         <Annotation>
           <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
@@ -643,6 +643,71 @@
         <Annotation>
           <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
           <Value>85</Value>
+        </Annotation>
+        <Annotation>
+          <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ARDiagramLayout</Name>
+          <Value>
+            <DiagramLayout ZoomPercent="100" ViewPortX="0" ViewPortY="0" xmlns="">
+              <Shapes NodeWidth="231">
+                <Shape Id="Customer" Expanded="false">
+                  <Attributes>
+                    <Attribute Id="Customer" />
+                    <Attribute Id="Birth Date" />
+                    <Attribute Id="Date First Purchase" />
+                    <Attribute Id="English Education" />
+                    <Attribute Id="Email Address" />
+                    <Attribute Id="Gender" />
+                    <Attribute Id="House Owner Flag" />
+                    <Attribute Id="Marital Status" />
+                    <Attribute Id="Number Cars Owned" />
+                    <Attribute Id="Number Children At Home" />
+                    <Attribute Id="English Occupation" />
+                    <Attribute Id="Phone" />
+                    <Attribute Id="Total Children" />
+                    <Attribute Id="Yearly Income" />
+                  </Attributes>
+                  <Position x="20" y="20" />
+                </Shape>
+                <Shape Id="Geography" Expanded="false">
+                  <Attributes>
+                    <Attribute Id="Geography" />
+                  </Attributes>
+                  <Position x="313" y="20" />
+                </Shape>
+                <Shape Id="Postal Code" Expanded="false">
+                  <Attributes>
+                    <Attribute Id="Postal Code" />
+                  </Attributes>
+                  <Position x="607" y="20" />
+                </Shape>
+                <Shape Id="English Country Region Name" Expanded="false">
+                  <Attributes>
+                    <Attribute Id="English Country Region Name" />
+                  </Attributes>
+                  <Position x="607" y="69" />
+                </Shape>
+                <Shape Id="State Province Name" Expanded="false">
+                  <Attributes>
+                    <Attribute Id="State Province Name" />
+                  </Attributes>
+                  <Position x="607" y="118" />
+                </Shape>
+                <Shape Id="City" Expanded="false">
+                  <Attributes>
+                    <Attribute Id="City" />
+                  </Attributes>
+                  <Position x="607" y="167" />
+                </Shape>
+                <Shape Id="Commute Distance" Expanded="true">
+                  <Attributes>
+                    <Attribute Id="Commute Distance" />
+                    <Attribute Id="Commute Distance Sort" />
+                  </Attributes>
+                  <Position x="313" y="216" />
+                </Shape>
+              </Shapes>
+            </DiagramLayout>
+          </Value>
         </Annotation>
       </Annotations>
       <LastProcessed>0001-01-01T02:00:00Z</LastProcessed>
@@ -1019,7 +1084,15 @@
               </Source>
             </KeyColumn>
           </KeyColumns>
-          <OrderBy>Key</OrderBy>
+          <AttributeRelationships>
+            <AttributeRelationship>
+              <AttributeID>Commute Distance Sort</AttributeID>
+              <RelationshipType>Rigid</RelationshipType>
+              <Name>Commute Distance Sort</Name>
+            </AttributeRelationship>
+          </AttributeRelationships>
+          <OrderBy>AttributeKey</OrderBy>
+          <OrderByAttributeID>Commute Distance Sort</OrderByAttributeID>
           <AttributeHierarchyDisplayFolder>Demographic</AttributeHierarchyDisplayFolder>
           <InstanceSelection>DropDown</InstanceSelection>
           <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
@@ -1058,6 +1131,9 @@
             </AttributeRelationship>
           </AttributeRelationships>
           <OrderBy>Key</OrderBy>
+          <AttributeHierarchyOrdered>false</AttributeHierarchyOrdered>
+          <AttributeHierarchyOptimizedState>NotOptimized</AttributeHierarchyOptimizedState>
+          <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
           <InstanceSelection>FilteredList</InstanceSelection>
           <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
           <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
@@ -1157,6 +1233,25 @@
             </KeyColumn>
           </KeyColumns>
           <AttributeHierarchyDisplayFolder>Contacts</AttributeHierarchyDisplayFolder>
+          <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+          <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+        </Attribute>
+        <Attribute>
+          <ID>Commute Distance Sort</ID>
+          <Name>Commute Distance Sort</Name>
+          <KeyColumns>
+            <KeyColumn>
+              <DataType>WChar</DataType>
+              <DataSize>1</DataSize>
+              <Source xsi:type="ColumnBinding">
+                <TableID>dbo_DimCustomer</TableID>
+                <ColumnID>CommuteDistanceSort</ColumnID>
+              </Source>
+            </KeyColumn>
+          </KeyColumns>
+          <AttributeHierarchyOrdered>false</AttributeHierarchyOrdered>
+          <AttributeHierarchyEnabled>false</AttributeHierarchyEnabled>
+          <AttributeHierarchyOptimizedState>NotOptimized</AttributeHierarchyOptimizedState>
           <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
           <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
         </Attribute>
@@ -3286,9 +3381,9 @@
           <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
           <Value>
             <dds xmlns="">
-              <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="3" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-2110" scrolltop="-8043" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="10716" y="21087" backcolor="15334399" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+              <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="3" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-754" scrolltop="-4653" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="6922" y="11303" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
                 <font>
-                  <ddsxmlobjectstreamwrapper binary="01000000900144420100065461686f6d61" />
+                  <ddsxmlobjectstreamwrapper binary="010000009001b0300100065461686f6d61" />
                 </font>
                 <mouseicon>
                   <ddsxmlobjectstreamwrapper binary="6c74000000000000" />
@@ -3297,9 +3392,9 @@
               <layoutmanager>
                 <ddsxmlobj />
               </layoutmanager>
-              <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge.3" tooltip="Date" left="20" top="0" logicalid="2" controlid="1" masterid="0" hint1="0" hint2="0" width="4551" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+              <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Date" left="20" top="0" logicalid="2" controlid="1" masterid="0" hint1="0" hint2="0" width="4551" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
                 <control>
-                  <ddsxmlobjectstreaminitwrapper binary="00080000c711000088130000" />
+                  <ddsxmlobjectstreaminitwrapper binary="000e0000c711000088130000" />
                 </control>
                 <layoutobject>
                   <ddsxmlobj>
@@ -3325,11 +3420,11 @@
         </Annotation>
         <Annotation>
           <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
-          <Value>-2110</Value>
+          <Value>-754</Value>
         </Annotation>
         <Annotation>
           <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
-          <Value>-8043</Value>
+          <Value>-4653</Value>
         </Annotation>
         <Annotation>
           <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
@@ -3342,6 +3437,65 @@
         <Annotation>
           <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
           <Value>100</Value>
+        </Annotation>
+        <Annotation>
+          <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ARDiagramLayout</Name>
+          <Value>
+            <DiagramLayout ZoomPercent="100" ViewPortX="0" ViewPortY="17" xmlns="">
+              <Shapes NodeWidth="197">
+                <Shape Id="Date Key" Expanded="false">
+                  <Attributes>
+                    <Attribute Id="Date Key" />
+                    <Attribute Id="Full Date Alternate Key" />
+                  </Attributes>
+                  <Position x="20" y="20" />
+                </Shape>
+                <Shape Id="Fiscal Semester" Expanded="false">
+                  <Attributes>
+                    <Attribute Id="Fiscal Semester" />
+                  </Attributes>
+                  <Position x="271" y="20" />
+                </Shape>
+                <Shape Id="Fiscal Year" Expanded="false">
+                  <Attributes>
+                    <Attribute Id="Fiscal Year" />
+                  </Attributes>
+                  <Position x="271" y="69" />
+                </Shape>
+                <Shape Id="Fiscal Quarter" Expanded="false">
+                  <Attributes>
+                    <Attribute Id="Fiscal Quarter" />
+                  </Attributes>
+                  <Position x="271" y="118" />
+                </Shape>
+                <Shape Id="Calendar Semester" Expanded="false">
+                  <Attributes>
+                    <Attribute Id="Calendar Semester" />
+                  </Attributes>
+                  <Position x="271" y="167" />
+                </Shape>
+                <Shape Id="Calendar Year" Expanded="false">
+                  <Attributes>
+                    <Attribute Id="Calendar Year" />
+                  </Attributes>
+                  <Position x="271" y="216" />
+                </Shape>
+                <Shape Id="Calendar Quarter" Expanded="false">
+                  <Attributes>
+                    <Attribute Id="Calendar Quarter" />
+                  </Attributes>
+                  <Position x="271" y="265" />
+                </Shape>
+                <Shape Id="Month Name" Expanded="true">
+                  <Attributes>
+                    <Attribute Id="Month Name" />
+                    <Attribute Id="Month Number Of Year" />
+                  </Attributes>
+                  <Position x="271" y="314" />
+                </Shape>
+              </Shapes>
+            </DiagramLayout>
+          </Value>
         </Annotation>
       </Annotations>
       <LastProcessed>0001-01-01T08:00:00Z</LastProcessed>
@@ -3463,7 +3617,15 @@
               <ColumnID>MonthName</ColumnID>
             </Source>
           </NameColumn>
-          <OrderBy>Key</OrderBy>
+          <AttributeRelationships>
+            <AttributeRelationship>
+              <AttributeID>Month Number Of Year</AttributeID>
+              <RelationshipType>Rigid</RelationshipType>
+              <Name>Month Number Of Year</Name>
+            </AttributeRelationship>
+          </AttributeRelationships>
+          <OrderBy>AttributeKey</OrderBy>
+          <OrderByAttributeID>Month Number Of Year</OrderByAttributeID>
           <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
           <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
         </Attribute>
@@ -3642,6 +3804,24 @@
             </Source>
           </NameColumn>
           <OrderBy>Key</OrderBy>
+          <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+          <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+        </Attribute>
+        <Attribute>
+          <ID>Month Number Of Year</ID>
+          <Name>Month Number Of Year</Name>
+          <KeyColumns>
+            <KeyColumn>
+              <DataType>UnsignedTinyInt</DataType>
+              <Source xsi:type="ColumnBinding">
+                <TableID>dbo_DimDate</TableID>
+                <ColumnID>MonthNumberOfYear</ColumnID>
+              </Source>
+            </KeyColumn>
+          </KeyColumns>
+          <AttributeHierarchyOrdered>false</AttributeHierarchyOrdered>
+          <AttributeHierarchyEnabled>false</AttributeHierarchyEnabled>
+          <AttributeHierarchyOptimizedState>NotOptimized</AttributeHierarchyOptimizedState>
           <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
           <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
         </Attribute>
@@ -4404,6 +4584,10 @@
             <Attribute>
               <AttributeID>Email Address</AttributeID>
             </Attribute>
+            <Attribute>
+              <AttributeID>Commute Distance Sort</AttributeID>
+              <AttributeHierarchyEnabled>false</AttributeHierarchyEnabled>
+            </Attribute>
           </Attributes>
           <Hierarchies>
             <Hierarchy>
@@ -4685,6 +4869,10 @@
             <Attribute>
               <AttributeID>Fiscal Semester</AttributeID>
             </Attribute>
+            <Attribute>
+              <AttributeID>Month Number Of Year</AttributeID>
+              <AttributeHierarchyEnabled>false</AttributeHierarchyEnabled>
+            </Attribute>
           </Attributes>
           <Hierarchies>
             <Hierarchy>
@@ -4727,6 +4915,10 @@
             <Attribute>
               <AttributeID>Fiscal Semester</AttributeID>
             </Attribute>
+            <Attribute>
+              <AttributeID>Month Number Of Year</AttributeID>
+              <AttributeHierarchyEnabled>false</AttributeHierarchyEnabled>
+            </Attribute>
           </Attributes>
           <Hierarchies>
             <Hierarchy>
@@ -4768,6 +4960,10 @@
             </Attribute>
             <Attribute>
               <AttributeID>Fiscal Semester</AttributeID>
+            </Attribute>
+            <Attribute>
+              <AttributeID>Month Number Of Year</AttributeID>
+              <AttributeHierarchyEnabled>false</AttributeHierarchyEnabled>
             </Attribute>
           </Attributes>
           <Hierarchies>
@@ -6166,7 +6362,7 @@
                 <Name>Reseller Sales</Name>
                 <DiagramLayout>
                   <dds>
-                    <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="42" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-2764" scrolltop="3938" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="17992" y="12594" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="1" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+                    <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="42" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-1763" scrolltop="-882" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="75" x="17992" y="12594" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="1" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
                       <font>
                         <ddsxmlobjectstreamwrapper binary="010000009001b0300100065461686f6d61" />
                       </font>
@@ -6507,11 +6703,11 @@
 </DiagramLayout>
                 <ShowRelationshipNames>False</ShowRelationshipNames>
                 <UseDiagramDefaultLayout>True</UseDiagramDefaultLayout>
-                <DiagramViewPortLeft>-2764</DiagramViewPortLeft>
-                <DiagramViewPortTop>3938</DiagramViewPortTop>
+                <DiagramViewPortLeft>-1763</DiagramViewPortLeft>
+                <DiagramViewPortTop>-882</DiagramViewPortTop>
                 <DiagramBoundingLeft>0</DiagramBoundingLeft>
                 <DiagramBoundingTop>-688</DiagramBoundingTop>
-                <DiagramZoom>100</DiagramZoom>
+                <DiagramZoom>75</DiagramZoom>
               </Diagram>
             </Layouts>
           </Value>
