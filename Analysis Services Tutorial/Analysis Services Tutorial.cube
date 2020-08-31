@@ -1,4 +1,4 @@
-﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="d96399ba-e957-47e4-b632-5a3de41ad172" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="a7b41692-3746-4bbc-be0d-2c836982a9e0" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
   <ID>Adventure Works DW</ID>
   <Name>Analysis Services Tutorial</Name>
   <CreatedTimestamp>0001-01-01T08:00:00Z</CreatedTimestamp>
@@ -8,7 +8,7 @@
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
       <Value>
         <dds xmlns="">
-          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="68" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-2797" scrolltop="5321" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="75" x="25654" y="16552" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="1" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="76" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-2797" scrolltop="5321" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="75" x="25654" y="16552" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="1" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
             <font>
               <ddsxmlobjectstreamwrapper binary="010000009001b0300100065461686f6d61" />
             </font>
@@ -19,7 +19,7 @@
           <layoutmanager>
             <ddsxmlobj />
           </layoutmanager>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Product" left="1635" top="9477" logicalid="33" controlid="1" masterid="0" hint1="0" hint2="0" width="4366" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Product" left="1635" top="9477" logicalid="38" controlid="1" masterid="0" hint1="0" hint2="0" width="4366" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e00000e11000088130000" />
             </control>
@@ -30,7 +30,7 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Geography" left="19885" top="20577" logicalid="34" controlid="2" masterid="0" hint1="0" hint2="0" width="4815" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Geography" left="19885" top="20577" logicalid="39" controlid="2" masterid="0" hint1="0" hint2="0" width="4815" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e0000cf12000088130000" />
             </control>
@@ -41,7 +41,7 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Customer" left="20189" top="27977" logicalid="35" controlid="3" masterid="0" hint1="0" hint2="0" width="4207" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Customer" left="20189" top="27977" logicalid="40" controlid="3" masterid="0" hint1="0" hint2="0" width="4207" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e00006f10000088130000" />
             </control>
@@ -52,7 +52,7 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="InternetSales" left="1900" top="16877" logicalid="36" controlid="4" masterid="0" hint1="0" hint2="0" width="4101" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="InternetSales" left="1900" top="16877" logicalid="41" controlid="4" masterid="0" hint1="0" hint2="0" width="4101" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e00000510000088130000" />
             </control>
@@ -63,7 +63,7 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="3419" top="13978" logicalid="37" controlid="5" masterid="0" hint1="0" hint2="0" width="831" height="3199" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="3419" top="13978" logicalid="42" controlid="5" masterid="0" hint1="0" hint2="0" width="831" height="3199" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -83,7 +83,7 @@
               <point x="3950" y="16877" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="21893" top="25078" logicalid="38" controlid="6" masterid="0" hint1="0" hint2="0" width="799" height="3199" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="21893" top="25078" logicalid="43" controlid="6" masterid="0" hint1="0" hint2="0" width="799" height="3199" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -101,7 +101,7 @@
               <point x="22292" y="27977" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="5701" top="20727" logicalid="39" controlid="7" masterid="0" hint1="0" hint2="0" width="14788" height="10150" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="5701" top="20727" logicalid="44" controlid="7" masterid="0" hint1="0" hint2="0" width="14788" height="10150" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -121,7 +121,7 @@
               <point x="6001" y="21027" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Reseller" left="27100" top="20577" logicalid="40" controlid="8" masterid="0" hint1="0" hint2="0" width="4550" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Reseller" left="27100" top="20577" logicalid="45" controlid="8" masterid="0" hint1="0" hint2="0" width="4550" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e0000c611000088130000" />
             </control>
@@ -132,7 +132,7 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="24400" top="22678" logicalid="41" controlid="9" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="24400" top="22678" logicalid="46" controlid="9" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -150,7 +150,7 @@
               <point x="27100" y="23077" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Promotion" left="8401" top="5777" logicalid="42" controlid="10" masterid="0" hint1="0" hint2="0" width="4710" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Promotion" left="8401" top="5777" logicalid="47" controlid="10" masterid="0" hint1="0" hint2="0" width="4710" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e00006612000088130000" />
             </control>
@@ -161,7 +161,7 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="5701" top="7878" logicalid="43" controlid="11" masterid="0" hint1="0" hint2="0" width="3000" height="10149" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="5701" top="7878" logicalid="48" controlid="11" masterid="0" hint1="0" hint2="0" width="3000" height="10149" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -181,7 +181,7 @@
               <point x="6001" y="17727" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="SalesTerritory" left="15511" top="14142" logicalid="44" controlid="12" masterid="0" hint1="0" hint2="0" width="4762" height="3070" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="SalesTerritory" left="15511" top="14142" logicalid="49" controlid="12" masterid="0" hint1="0" hint2="0" width="4762" height="3070" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e00009a120000fe0b0000" />
             </control>
@@ -192,7 +192,7 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="17493" top="16713" logicalid="45" controlid="13" masterid="0" hint1="0" hint2="0" width="5099" height="4164" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="17493" top="16713" logicalid="50" controlid="13" masterid="0" hint1="0" hint2="0" width="5099" height="4164" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -212,7 +212,7 @@
               <point x="22292" y="20577" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="5701" top="15278" logicalid="46" controlid="14" masterid="0" hint1="0" hint2="0" width="10110" height="4399" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="5701" top="15278" logicalid="51" controlid="14" masterid="0" hint1="0" hint2="0" width="10110" height="4399" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -232,7 +232,7 @@
               <point x="6001" y="19377" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Employee" left="22673" top="13177" logicalid="47" controlid="15" masterid="0" hint1="0" hint2="0" width="6402" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Employee" left="22673" top="13177" logicalid="52" controlid="15" masterid="0" hint1="0" hint2="0" width="6402" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e00000219000088130000" />
             </control>
@@ -243,7 +243,7 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="19973" top="15278" logicalid="48" controlid="16" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="19973" top="15278" logicalid="53" controlid="16" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -261,7 +261,7 @@
               <point x="22673" y="15677" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="21373" top="11877" logicalid="49" controlid="17" masterid="0" hint1="0" hint2="0" width="2601" height="2550" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="21373" top="11877" logicalid="54" controlid="17" masterid="0" hint1="0" hint2="0" width="2601" height="2550" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -282,7 +282,7 @@
               <point x="23674" y="13177" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="ResellerSales" left="10839" top="-1623" logicalid="50" controlid="18" masterid="0" hint1="0" hint2="0" width="4286" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="ResellerSales" left="10839" top="-1623" logicalid="55" controlid="18" masterid="0" hint1="0" hint2="0" width="4286" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e0000be10000088130000" />
             </control>
@@ -293,7 +293,7 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="13782" top="3077" logicalid="51" controlid="19" masterid="0" hint1="0" hint2="0" width="11392" height="10600" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="13782" top="3077" logicalid="56" controlid="19" masterid="0" hint1="0" hint2="0" width="11392" height="10600" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -313,7 +313,7 @@
               <point x="14082" y="3377" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="14332" top="3077" logicalid="52" controlid="20" masterid="0" hint1="0" hint2="0" width="15443" height="18000" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="14332" top="3077" logicalid="57" controlid="20" masterid="0" hint1="0" hint2="0" width="15443" height="18000" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -333,7 +333,7 @@
               <point x="14632" y="3377" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="10357" top="3077" logicalid="53" controlid="21" masterid="0" hint1="0" hint2="0" width="1275" height="3200" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="10357" top="3077" logicalid="58" controlid="21" masterid="0" hint1="0" hint2="0" width="1275" height="3200" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -353,7 +353,7 @@
               <point x="11332" y="3377" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="3419" top="3077" logicalid="54" controlid="22" masterid="0" hint1="0" hint2="0" width="8763" height="6900" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="3419" top="3077" logicalid="59" controlid="22" masterid="0" hint1="0" hint2="0" width="8763" height="6900" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -373,7 +373,7 @@
               <point x="11882" y="3377" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="14332" top="3077" logicalid="55" controlid="23" masterid="0" hint1="0" hint2="0" width="3960" height="11565" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="14332" top="3077" logicalid="60" controlid="23" masterid="0" hint1="0" hint2="0" width="3960" height="11565" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -393,7 +393,7 @@
               <point x="14632" y="3377" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Date" left="-5685" top="16877" logicalid="56" controlid="24" masterid="0" hint1="0" hint2="0" width="5185" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Date" left="-5685" top="16877" logicalid="61" controlid="24" masterid="0" hint1="0" hint2="0" width="5185" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e00004114000088130000" />
             </control>
@@ -404,7 +404,7 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="-1292" top="3077" logicalid="57" controlid="25" masterid="0" hint1="0" hint2="0" width="14024" height="14300" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="-1292" top="3077" logicalid="62" controlid="25" masterid="0" hint1="0" hint2="0" width="14024" height="14300" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -424,7 +424,7 @@
               <point x="12432" y="3377" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="-800" top="16778" logicalid="58" controlid="26" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="-800" top="16778" logicalid="63" controlid="26" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -442,7 +442,7 @@
               <point x="1900" y="17177" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="-800" top="17878" logicalid="59" controlid="27" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="-800" top="17878" logicalid="64" controlid="27" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -460,7 +460,7 @@
               <point x="1900" y="18277" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="-1842" top="3077" logicalid="60" controlid="28" masterid="0" hint1="0" hint2="0" width="15124" height="14300" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="-1842" top="3077" logicalid="65" controlid="28" masterid="0" hint1="0" hint2="0" width="15124" height="14300" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -480,7 +480,7 @@
               <point x="12982" y="3377" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="-2392" top="3077" logicalid="61" controlid="29" masterid="0" hint1="0" hint2="0" width="16224" height="14300" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="-2392" top="3077" logicalid="66" controlid="29" masterid="0" hint1="0" hint2="0" width="16224" height="14300" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -500,7 +500,7 @@
               <point x="13532" y="3377" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="-800" top="17328" logicalid="62" controlid="30" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="-800" top="17328" logicalid="67" controlid="30" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -518,7 +518,7 @@
               <point x="1900" y="17727" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" left="0" top="0" logicalid="63" controlid="31" masterid="0" hint1="0" hint2="0" width="4008" height="1891" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" left="0" top="0" logicalid="68" controlid="31" masterid="0" hint1="0" hint2="0" width="4008" height="1891" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e0000a80f000063070000" />
             </control>
@@ -529,7 +529,7 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="2254" top="1591" logicalid="64" controlid="32" masterid="0" hint1="0" hint2="0" width="996" height="15786" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="2254" top="1591" logicalid="69" controlid="32" masterid="0" hint1="0" hint2="0" width="996" height="15786" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -549,7 +549,7 @@
               <point x="2554" y="1891" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="SalesReason" left="9899" top="14233" logicalid="66" controlid="34" masterid="0" hint1="0" hint2="0" width="4233" height="2229" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="SalesReason" left="9899" top="14233" logicalid="70" controlid="33" masterid="0" hint1="0" hint2="0" width="4233" height="2229" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e000089100000b5080000" />
             </control>
@@ -560,10 +560,10 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="1704" top="95" logicalid="67" controlid="35" masterid="0" hint1="0" hint2="0" width="8495" height="15102" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="3708" top="95" logicalid="71" controlid="34" masterid="0" hint1="0" hint2="0" width="6491" height="15102" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
-                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
               </ddsxmlobj>
             </control>
             <layoutobject>
@@ -573,11 +573,62 @@
                 <property name="VisibleAP" value="0" vartype="3" />
               </ddsxmlobj>
             </layoutobject>
-            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="34" destid="31" sourceattachpoint="14" destattachpoint="15" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="33" destid="31" sourceattachpoint="14" destattachpoint="15" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
               <point x="9899" y="14797" />
-              <point x="2004" y="14797" />
-              <point x="2004" y="395" />
+              <point x="6954" y="14797" />
+              <point x="6954" y="395" />
               <point x="4008" y="395" />
+            </connector>
+          </ddscontrol>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" left="0" top="0" logicalid="72" controlid="35" masterid="0" hint1="0" hint2="0" width="3528" height="3245" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e0000c80d0000ad0c0000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_FactSalesQuota" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="-2942" top="2945" logicalid="73" controlid="36" masterid="0" hint1="0" hint2="0" width="3356" height="14432" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[FK_FactSalesQuota_DimDate]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="24" destid="35" sourceattachpoint="10" destattachpoint="1" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="-2543" y="16877" />
+              <point x="-2543" y="10061" />
+              <point x="114" y="10061" />
+              <point x="114" y="3245" />
+            </connector>
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="3228" top="2422" logicalid="74" controlid="37" masterid="0" hint1="0" hint2="0" width="19745" height="11455" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[FK_FactSalesQuota_DimEmployee]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="15" destid="35" sourceattachpoint="22" destattachpoint="23" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="22673" y="13477" />
+              <point x="13101" y="13477" />
+              <point x="13101" y="2722" />
+              <point x="3528" y="2722" />
             </connector>
           </ddscontrol>
         </dds>
@@ -619,582 +670,585 @@
   <LastProcessed>0001-01-01T08:00:00Z</LastProcessed>
   <State>Unprocessed</State>
   <Dimensions>
-    <Dimension dwd:design-time-name="0f2c9968-5aeb-4bed-922b-263c6dcbf625">
+    <Dimension dwd:design-time-name="b64d1667-610e-466a-9b44-6ab26f215a4d">
       <ID>Product</ID>
       <Name>Product</Name>
       <DimensionID>Product</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="6993a5dd-b84f-4eee-8780-c38529949033">
+        <Attribute dwd:design-time-name="7a8d7df4-c5c8-47ea-a264-0d58ffdce2cf">
           <AttributeID>Product</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="35bf35d8-e060-4474-8e97-625d96ee1e35">
+        <Attribute dwd:design-time-name="2253f5b8-4d11-4a26-b870-4d9585c411fb">
           <AttributeID>Standard Cost</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="4b7c3423-8f7c-4d93-848b-04b37c4dcd18">
+        <Attribute dwd:design-time-name="db7166ba-2a0f-49c9-8e80-ac0210daa276">
           <AttributeID>Color</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="879329a3-a7ca-4652-9cc7-6f83c6db5b7d">
+        <Attribute dwd:design-time-name="6b1aa235-9fac-405d-b37e-588b05745a15">
           <AttributeID>Safety Stock Level</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="12237d9b-89ae-4c13-ac5a-b05f310dc590">
+        <Attribute dwd:design-time-name="8dca232a-041b-426b-b15d-2a5d376965dc">
           <AttributeID>Reorder Point</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="59f0902e-a33a-4326-80e8-27c06f96408d">
+        <Attribute dwd:design-time-name="388621ff-35fe-4482-be53-2c8d13f555c3">
           <AttributeID>List Price</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="a68663f6-241d-4aa8-a5bc-74c3d0fd021b">
+        <Attribute dwd:design-time-name="f740a702-908d-4146-8e88-ed3502ed98d3">
           <AttributeID>Size</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="fcc6fde5-afe5-47bd-9707-b317f9eca42a">
+        <Attribute dwd:design-time-name="26af7742-9e5f-4b6a-99d9-9080ccb2dbe3">
           <AttributeID>Size Range</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="a65347ac-fe8b-44e6-a269-ead023da1889">
+        <Attribute dwd:design-time-name="a59bab20-c9b5-4d1a-9263-92abe4126fa7">
           <AttributeID>Weight</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="3f7188a4-bf3c-450c-9f35-4caeeb91f98c">
+        <Attribute dwd:design-time-name="68df444a-d458-4c95-b294-af29d90bb17e">
           <AttributeID>Days To Manufacture</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="60db4649-df4c-45a6-bb05-5e0787c60bdb">
+        <Attribute dwd:design-time-name="d5249f57-7ee7-41c8-96c7-583c1e9908a3">
           <AttributeID>Product Line</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="294365f2-87e2-4ca3-b1ac-7a519b3cd60e">
+        <Attribute dwd:design-time-name="1994f95b-3a74-4952-bf84-1687864cf0bd">
           <AttributeID>Dealer Price</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="df33da0b-9bfa-4773-8433-6da4c7df5557">
+        <Attribute dwd:design-time-name="61457f6d-7190-457e-9903-f56fcbacab17">
           <AttributeID>Class</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="06cb6734-011b-42c3-997b-ee2af56bf0d6">
+        <Attribute dwd:design-time-name="001a7bf1-8950-450b-8698-a2e2456c6e4d">
           <AttributeID>Style</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="84a388d3-d73b-4573-82fe-ba27f5b9fa04">
+        <Attribute dwd:design-time-name="a97e5410-4181-4e27-9d51-340227358da5">
           <AttributeID>Model Name</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="d2116b24-3f18-417c-b8ba-178bc4464498">
+        <Attribute dwd:design-time-name="fd8213b7-94e7-4ce2-8905-7e8acbca74ad">
           <AttributeID>Start Date</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="b5c82555-17df-4b76-af8a-ed1f1c75078c">
+        <Attribute dwd:design-time-name="65da272c-1064-44b3-af45-2afa805d7732">
           <AttributeID>End Date</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="f592fb91-80e9-4b38-af84-e033b23bf24c">
+        <Attribute dwd:design-time-name="2da1f775-1920-4938-ace7-851970b801b6">
           <AttributeID>Status</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="9597833a-0e1c-4eb2-aa43-c93cea4ca132">
+        <Attribute dwd:design-time-name="35da73e7-e287-4878-b7e3-8101a9d1b8d9">
           <AttributeID>Product Category Key</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="c01c29b7-c1a3-4306-9ed3-26c77f09cdc0">
+        <Attribute dwd:design-time-name="fcf69737-4a25-49ec-86f9-f25d1e9604d7">
           <AttributeID>Product Subcategory Key</AttributeID>
         </Attribute>
       </Attributes>
       <Hierarchies>
-        <Hierarchy dwd:design-time-name="c94b56ca-7f79-4531-a87b-8294c2d7cd46">
+        <Hierarchy dwd:design-time-name="53008fe6-95e5-4ab2-bbd7-ebb60113f254">
           <HierarchyID>Hierarchy</HierarchyID>
         </Hierarchy>
-        <Hierarchy dwd:design-time-name="bc3d545a-d575-462e-ab9b-aa9e0a53d108">
+        <Hierarchy dwd:design-time-name="4c443620-e185-4641-a227-965ce86aabf7">
           <HierarchyID>Hierarchy 1</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
-    <Dimension dwd:design-time-name="8ab70fd5-fcff-484d-afb2-413254bf8859">
+    <Dimension dwd:design-time-name="40d4ddd6-f916-4c31-8165-a1dbdc621999">
       <ID>Customer</ID>
       <Name>Customer</Name>
       <DimensionID>Customer</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="16c657c5-38ca-4923-8a34-5c2015e941d2">
+        <Attribute dwd:design-time-name="6def35aa-3535-4c1e-8dad-858257d33e0f">
           <AttributeID>Customer</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="24b47ee2-e59c-4d47-9680-34248d224895">
+        <Attribute dwd:design-time-name="10bafbaf-d20d-4031-9935-52b4f0930631">
           <AttributeID>Birth Date</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="5b93a056-c1fc-401d-bccf-f7da904f7a80">
+        <Attribute dwd:design-time-name="5b4cd4ae-d424-4029-9169-ba65a8fc8217">
           <AttributeID>Marital Status</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="69319fc7-0f0a-4825-a6f9-5454776f051b">
+        <Attribute dwd:design-time-name="f8bf2fd2-49f5-4bb8-b65b-a12cb6cce271">
           <AttributeID>Gender</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="9c9443a6-830d-44cf-acd8-1813caae6402">
+        <Attribute dwd:design-time-name="759808ab-0477-4b0d-9809-ce4b1599fec9">
           <AttributeID>Yearly Income</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="876a190d-b3df-48ba-ad01-f4c6c135a2f2">
+        <Attribute dwd:design-time-name="9d1dc6b5-afe3-4587-8b68-be7e4b2f81d7">
           <AttributeID>Total Children</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="f884d6f3-ee0f-4fb0-8cf1-a80f32dcb700">
+        <Attribute dwd:design-time-name="526d5920-9057-4e7a-be87-a66f847b9c36">
           <AttributeID>Number Children At Home</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="6d022a49-7dd9-49cf-abe6-cb7bbb2ce008">
+        <Attribute dwd:design-time-name="59f19a24-1ffb-4e15-8ef8-8f06fc055164">
           <AttributeID>English Education</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="ea67d2de-0df2-4b0d-adc3-b4a15179093a">
+        <Attribute dwd:design-time-name="1bb874e2-cf6f-4be0-af66-c2c2e77ce68b">
           <AttributeID>English Occupation</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="1d4a44ea-db8f-4eab-bd37-0a0084b5d0c7">
+        <Attribute dwd:design-time-name="80c5e7e3-27ce-4dad-8b3f-49efe42c12a1">
           <AttributeID>House Owner Flag</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="3c5a592b-2b7a-4657-a858-2fb516eec554">
+        <Attribute dwd:design-time-name="9daffca2-444f-48a1-903f-05b93dd6c7fb">
           <AttributeID>Number Cars Owned</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="3b497ebb-ddea-4990-a912-bcfc19fa4376">
+        <Attribute dwd:design-time-name="afb04686-8c95-43db-b593-5c28c9c849d6">
           <AttributeID>Phone</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="d54d0129-295a-4ace-acd2-46c81d932e48">
+        <Attribute dwd:design-time-name="b036abde-450b-47f7-9731-bb35fbafc196">
           <AttributeID>Date First Purchase</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="eb345cfc-9fb9-4685-9411-a514ce0a7baf">
+        <Attribute dwd:design-time-name="167912fa-3a9a-4bb7-bda0-82a068952b3a">
           <AttributeID>Commute Distance</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="83d69164-f6f1-4ceb-9bb6-cae6bd4f7d4f">
+        <Attribute dwd:design-time-name="6c50cefa-9766-4e04-bfe8-d758ca19d86e">
           <AttributeID>Geography</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="46c4d483-3c50-4433-b695-b63250fc96f7">
+        <Attribute dwd:design-time-name="5a82347a-5c67-4f90-9f41-31ecff073c0d">
           <AttributeID>City</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="c06bc51b-7a82-42bc-a0a7-9995af1bfc61">
+        <Attribute dwd:design-time-name="05137b50-2ea0-4297-b691-d409db979f93">
           <AttributeID>State Province Name</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="94fb4e94-de71-4c03-b22e-a4e47de22a55">
+        <Attribute dwd:design-time-name="7204c4f8-f402-4d45-b0ed-421241707279">
           <AttributeID>English Country Region Name</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="045fe7d3-ce36-407b-a14c-23fcac09a4c0">
+        <Attribute dwd:design-time-name="d218465d-651f-446c-8375-ca2780b1685d">
           <AttributeID>Postal Code</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="4e8d5e64-7acb-4ba0-b15f-03f631383829">
+        <Attribute dwd:design-time-name="7f1f7110-51af-4bc8-b4c6-70d169bd5d5b">
           <AttributeID>Email Address</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="65d2d972-ec50-44ff-b2c1-659728a33ab1">
+        <Attribute dwd:design-time-name="d2158950-e9b2-464d-b14f-ac879a37bd08">
           <AttributeID>Commute Distance Sort</AttributeID>
           <AttributeHierarchyEnabled>false</AttributeHierarchyEnabled>
         </Attribute>
       </Attributes>
       <Hierarchies>
-        <Hierarchy dwd:design-time-name="a0d4a103-194c-496d-839c-56ae9c1e18ff">
+        <Hierarchy dwd:design-time-name="43509e72-e8a2-43f6-97c5-51fc339b9d42">
           <HierarchyID>State Province Name - Geography</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
-    <Dimension dwd:design-time-name="2fc1acaf-5871-4ed0-b533-7618919be9b5">
+    <Dimension dwd:design-time-name="2d65ed41-1874-4e70-a13d-649bc2ac4cba">
       <ID>Reseller</ID>
       <Name>Reseller</Name>
       <DimensionID>Reseller</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="c0b3b712-8236-40b3-8fbe-04ed02126e40">
+        <Attribute dwd:design-time-name="fa918f56-12e1-4a23-bc67-72dc05b29814">
           <AttributeID>Reseller</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="ce7eba3b-d4a9-4607-9800-e0e35e7edfda">
+        <Attribute dwd:design-time-name="4dd5b63a-078f-4fda-9a4c-b2c74c1d6861">
           <AttributeID>Phone</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="fabd04c3-6deb-4a8c-a7b2-40e2941a6583">
+        <Attribute dwd:design-time-name="eaec2e56-4951-48a5-921d-71fe55d38e68">
           <AttributeID>Business Type</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="f9812bc5-3273-47d0-8c9d-89df8acc4a0c">
+        <Attribute dwd:design-time-name="bc6d4182-4d0e-4744-ad67-1e33b118e9c1">
           <AttributeID>Number Employees</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="08e23f92-a4ce-4ae8-b635-e600759c04ee">
+        <Attribute dwd:design-time-name="7b816b9d-8c28-4735-810a-1e91597ac7d6">
           <AttributeID>Order Frequency</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="25e2a7bb-b226-45ed-825b-4772b43ffdfb">
+        <Attribute dwd:design-time-name="d92ef702-ce24-4270-b763-1cb1c80fba14">
           <AttributeID>Order Month</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="ef04dab5-596b-45b1-b6a5-8f182337d05b">
+        <Attribute dwd:design-time-name="b3dc2d27-e548-4b06-a0c3-3f90d2d430e7">
           <AttributeID>First Order Year</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="49a41f82-a13c-4386-8e3d-8bda6ee4ffe9">
+        <Attribute dwd:design-time-name="2486b73d-d0ac-40a8-ac14-1e1708f3c7e2">
           <AttributeID>Last Order Year</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="a7f9efdc-cd58-46f4-934d-56dc5fde72fe">
+        <Attribute dwd:design-time-name="821bf5f5-9506-46f0-a299-893a0237693c">
           <AttributeID>Product Line</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="545486c3-f98e-400b-b4f1-843d976f32a1">
+        <Attribute dwd:design-time-name="5ab72859-1333-4690-8273-a24855e8f54d">
           <AttributeID>Annual Sales</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="94de3612-097f-4a11-a10d-b33810a37d52">
+        <Attribute dwd:design-time-name="e6a927ce-f51d-43ed-9d64-02472df29010">
           <AttributeID>Bank Name</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="d53af138-f900-4021-bc1f-ac6de2a6afcb">
+        <Attribute dwd:design-time-name="2a72a500-0cdc-4447-a8dc-ac2c4d8c2c56">
           <AttributeID>Min Payment Type</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="b5029bda-a7b4-4ac2-909e-be47595d5352">
+        <Attribute dwd:design-time-name="563bcdbd-a0fa-4ed7-b04a-83012aa2c89e">
           <AttributeID>Min Payment Amount</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="10bb5e3c-ff82-4040-8c33-10d9770a82c0">
+        <Attribute dwd:design-time-name="eddd68c4-4eb6-4da6-9b2a-e43ef4a9406d">
           <AttributeID>Annual Revenue</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="7de4e310-ed6e-4eb4-ad5a-deced0a51579">
+        <Attribute dwd:design-time-name="11a76e7d-3ba3-4845-bff0-acfc6328a3fb">
           <AttributeID>Year Opened</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="5327211d-aac4-4b53-9d3a-09f3b836a0e4">
+        <Attribute dwd:design-time-name="2f2afe43-fd42-4f39-81a1-4277ec07ed89">
           <AttributeID>Geography Key</AttributeID>
         </Attribute>
       </Attributes>
       <Hierarchies>
-        <Hierarchy dwd:design-time-name="686bfb7d-b338-4c5a-af3e-e360707c4329">
+        <Hierarchy dwd:design-time-name="c9c04254-a04c-46c6-baf1-a375af21b2ff">
           <HierarchyID>Hierarchy</HierarchyID>
         </Hierarchy>
-        <Hierarchy dwd:design-time-name="480bb411-2518-4b1b-a4b3-7e9aea0d1359">
+        <Hierarchy dwd:design-time-name="06537a23-f58e-4d02-9b50-770a9a180a49">
           <HierarchyID>Hierarchy 1</HierarchyID>
         </Hierarchy>
-        <Hierarchy dwd:design-time-name="be1fc98c-9eab-41da-9100-746ce71a36ea">
+        <Hierarchy dwd:design-time-name="0705472b-c102-41b0-a305-48f9e9216219">
           <HierarchyID>Hierarchy 2</HierarchyID>
         </Hierarchy>
-        <Hierarchy dwd:design-time-name="cceead6a-bb58-4048-973b-eba426847d40">
+        <Hierarchy dwd:design-time-name="2340b6d6-b073-4a27-9704-8b444faea1cc">
           <HierarchyID>Hierarchy 3</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
-    <Dimension dwd:design-time-name="b7edcb24-39f3-4260-b177-7b6b3649a1bb">
+    <Dimension dwd:design-time-name="e3a5c9fe-7894-4e02-b8ca-be1c859002ca">
       <ID>Geography</ID>
       <Name>Reseller Geography</Name>
       <DimensionID>Geography</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="14aa12ee-64a6-4de6-945b-62efbae5831a">
+        <Attribute dwd:design-time-name="be65090a-6db3-4dc6-858e-643b8c021abf">
           <AttributeID>Geography</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="4a26fbe7-2d12-4a17-a866-22018a7e0747">
+        <Attribute dwd:design-time-name="674b83b0-a202-4f9a-a1be-77e49148b4cb">
           <AttributeID>City</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="aaf4fbce-508d-433b-bdee-26f0dffeba98">
+        <Attribute dwd:design-time-name="23d3e09d-5bf9-4410-a2ee-5c43d815a848">
           <AttributeID>State Province Name</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="703d4716-5275-487b-8f31-5bc1245ab25d">
+        <Attribute dwd:design-time-name="6dcdf10a-ce91-4ae7-8d85-2549dae65d39">
           <AttributeID>English Country Region Name</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="1137718d-6ebf-49f7-b885-7a1b4ad7c02c">
+        <Attribute dwd:design-time-name="d0fce8ab-d646-481c-864f-342577fe7629">
           <AttributeID>Postal Code</AttributeID>
         </Attribute>
       </Attributes>
       <Hierarchies>
-        <Hierarchy dwd:design-time-name="3a009b50-7a3b-4107-b3cb-0a50652de1fb">
+        <Hierarchy dwd:design-time-name="4d0263c6-9041-48a4-93e6-245da28ef40e">
           <HierarchyID>Hierarchy</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
-    <Dimension dwd:design-time-name="aac23293-0fa2-4cf3-87ea-767f07239bef">
+    <Dimension dwd:design-time-name="907607f2-5d9f-4a50-b06c-bdb5d3136ed3">
       <ID>Sales Territory</ID>
       <Name>Sales Territory</Name>
       <DimensionID>Sales Territory</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="c02a25a1-0cdd-4d5f-a6c3-7125a78bbe82">
+        <Attribute dwd:design-time-name="22f26c9f-785d-4317-9e7d-a9f55ef5cba3">
           <AttributeID>Sales Territory</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="41a1d3b0-45e2-49e7-a561-d68c1dd1ae90">
+        <Attribute dwd:design-time-name="45d7b3bc-3fc0-4ed0-808e-5a3b231acd1a">
           <AttributeID>Sales Territory Country</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="59e08b53-216b-48e2-b814-224991d7fc6c">
+        <Attribute dwd:design-time-name="5a82cb2b-d9d3-4b82-a060-42c5d0cf3cfe">
           <AttributeID>Sales Territory Group</AttributeID>
         </Attribute>
       </Attributes>
       <Hierarchies>
-        <Hierarchy dwd:design-time-name="a46ea7d3-2386-45f4-ae1f-ea0209003034">
+        <Hierarchy dwd:design-time-name="eba6183b-bac0-4bd6-86b4-e796809a719e">
           <HierarchyID>Hierarchy</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
-    <Dimension dwd:design-time-name="d103e6d1-f5d8-458b-b9e2-71c633acedb0">
+    <Dimension dwd:design-time-name="b40a1e6b-58f2-4e8d-af31-ea7435783de3">
       <ID>Employee</ID>
       <Name>Employee</Name>
       <DimensionID>Employee</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="95d2b243-7b45-4271-80aa-9e155f8552ee">
+        <Attribute dwd:design-time-name="e0de19c3-1b60-426b-b6d0-c8ae9951fbc6">
           <AttributeID>Employee</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="6265226c-63ec-4a23-9d94-c645e38280f2">
+        <Attribute dwd:design-time-name="3de5f722-df4d-4745-b742-8f2358d0e53c">
           <AttributeID>Parent Employee Key</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="ae6106e8-ed7e-469b-ab53-4519b1e8c13f">
+        <Attribute dwd:design-time-name="3abce07f-2d2c-42ff-934c-35e77ccdeb8b">
           <AttributeID>Title</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="47674f6b-518f-4d16-8b38-0d726af42982">
+        <Attribute dwd:design-time-name="dfcd230e-a411-4179-8f95-ea86daa52096">
           <AttributeID>Hire Date</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="c3d0a13f-d34d-43ab-8b53-51c6f3d25e85">
+        <Attribute dwd:design-time-name="2c42803a-c86c-4de5-baaa-d1d5f4004463">
           <AttributeID>Birth Date</AttributeID>
           <AttributeHierarchyEnabled>false</AttributeHierarchyEnabled>
         </Attribute>
-        <Attribute dwd:design-time-name="7b1660f3-f106-4b9e-b9b2-4f7f40a0905b">
+        <Attribute dwd:design-time-name="00d11538-c7aa-4b5a-ba5a-77219ea61f9d">
           <AttributeID>Login ID</AttributeID>
           <AttributeHierarchyEnabled>false</AttributeHierarchyEnabled>
         </Attribute>
-        <Attribute dwd:design-time-name="2df4bdc7-442f-4c9b-a091-e1886cd701ac">
+        <Attribute dwd:design-time-name="8496b5de-d192-4839-ae1f-01975e7e966d">
           <AttributeID>Email Address</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="b528e8a3-c6a4-438b-baee-50241cfb867a">
+        <Attribute dwd:design-time-name="3f59b30b-0f04-4642-bca0-a36630524c13">
           <AttributeID>Phone</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="1054adeb-bae2-4f95-a699-b39568775be0">
+        <Attribute dwd:design-time-name="fe8dd2a8-89c1-4456-a345-32c1a8fb790f">
           <AttributeID>Marital Status</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="3c15c015-d2b2-48b3-a23f-d936d25abf34">
+        <Attribute dwd:design-time-name="fb946a32-9de6-4b1f-9a81-3a4b8a189c34">
           <AttributeID>Emergency Contact Name</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="4110f710-d14f-4f3e-b757-422312e651c0">
+        <Attribute dwd:design-time-name="75587cfa-6cf0-460e-b49d-1ff91109ae93">
           <AttributeID>Emergency Contact Phone</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="026ba1c9-0c76-4ffc-974b-eb53dac65abb">
+        <Attribute dwd:design-time-name="50b7cd7a-7184-45ab-b6f1-65a0f8371251">
           <AttributeID>Salaried Flag</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="76d613da-54da-4c5d-857f-5cd4398f4385">
+        <Attribute dwd:design-time-name="a9bcd365-0c05-42d2-996f-39f83e88db30">
           <AttributeID>Gender</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="4cf7a944-4a7f-4233-8752-71c6fd631777">
+        <Attribute dwd:design-time-name="f4536141-510b-405f-bcb9-6a5655f83039">
           <AttributeID>Pay Frequency</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="06d07329-fb36-4440-9f43-eb5fa37497db">
+        <Attribute dwd:design-time-name="d818c759-0032-4ad6-9dc2-9a6f72ff5b7b">
           <AttributeID>Base Rate</AttributeID>
           <AttributeHierarchyEnabled>false</AttributeHierarchyEnabled>
         </Attribute>
-        <Attribute dwd:design-time-name="5c079b60-d6d8-40c3-a4b2-c2f172457a0f">
+        <Attribute dwd:design-time-name="c5b29ae1-8518-445f-8f98-c381cb64cbf5">
           <AttributeID>Vacation Hours</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="c032e641-a3ae-453e-b86d-5737183affb3">
+        <Attribute dwd:design-time-name="43f1b0a8-f15f-4d48-9bb2-ba204985267f">
           <AttributeID>Sick Leave Hours</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="68ca061b-7bdb-4c61-b4b4-cce52501c27a">
+        <Attribute dwd:design-time-name="48c703fa-0a3c-4ba2-be8a-0c2143ecf03d">
           <AttributeID>Sales Person Flag</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="cadabeae-8b48-4782-b0c4-5a888202d5fe">
+        <Attribute dwd:design-time-name="f613c55a-babd-417a-9f37-1ab6095c2485">
           <AttributeID>Department Name</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="7641e5bd-d7c7-495c-91fa-c63405ee2d43">
+        <Attribute dwd:design-time-name="6a6be01a-70c4-4e09-8796-cabc39c6216d">
           <AttributeID>Start Date</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="965bcf4d-7e3c-4339-9f4c-46b9ff9ca6af">
+        <Attribute dwd:design-time-name="5590b043-5844-4678-95fa-43d149f30ba2">
           <AttributeID>End Date</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="e5114bb6-c81f-4edb-a380-2528643a380d">
+        <Attribute dwd:design-time-name="1b54682b-c7a3-453c-8114-4c662c6691de">
           <AttributeID>Status</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="050f4e0a-7f62-4078-a317-833eb2576c4b">
+        <Attribute dwd:design-time-name="765696ed-0064-4d91-b53c-6960c4330d05">
           <AttributeID>Hire Year</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="0f3a9196-6675-436c-83df-f4d29f857b88">
+        <Attribute dwd:design-time-name="4fe9f21b-4ea7-491b-ae13-db9b4bb7528c">
           <AttributeID>Parent Employee National ID Alternate Key</AttributeID>
           <AttributeHierarchyEnabled>false</AttributeHierarchyEnabled>
         </Attribute>
-        <Attribute dwd:design-time-name="104e2c28-7fa1-4e2a-ba18-e7afd0bf66f4">
+        <Attribute dwd:design-time-name="ba503729-3257-456c-beb8-88e7a1b5ecc3">
           <AttributeID>Employee National ID Alternate Key</AttributeID>
           <AttributeHierarchyEnabled>false</AttributeHierarchyEnabled>
         </Attribute>
+        <Attribute dwd:design-time-name="b7e301c7-87dc-4e0f-b745-9fe52295e28e">
+          <AttributeID>Sales Territory Key</AttributeID>
+        </Attribute>
       </Attributes>
       <Hierarchies>
-        <Hierarchy dwd:design-time-name="5bae4436-3925-4c60-9784-997bea88d508">
+        <Hierarchy dwd:design-time-name="d6a8cc2b-ffa7-4742-9e7b-2b97f9f8abe0">
           <HierarchyID>Department Name - Title</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
-    <Dimension dwd:design-time-name="f9b49316-c465-453d-9399-08faddeaeeb3">
+    <Dimension dwd:design-time-name="a1b8513a-a9e6-41f9-b232-b8c474fea722">
       <ID>Promotion</ID>
       <Name>Promotion</Name>
       <DimensionID>Promotion</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="790704bb-4953-43a1-8907-957ea28d151f">
+        <Attribute dwd:design-time-name="c1ba0496-22f5-44d5-8017-f8454e62fb24">
           <AttributeID>Promotion</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="f9b7ba1f-97ec-4b8b-afc7-bc616807dfb3">
+        <Attribute dwd:design-time-name="21ff630c-4153-465d-bd74-1e4b31339461">
           <AttributeID>Discount Pct</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="f1c27902-c585-4dc4-9382-307d1f9f2753">
+        <Attribute dwd:design-time-name="a8993639-86ac-4c95-9730-0447bf6c47f6">
           <AttributeID>English Promotion Type</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="c4e8c8fa-bfb0-41a3-bc5a-2cc52f24753c">
+        <Attribute dwd:design-time-name="4b5818dd-0571-4011-9412-6fc904cea73f">
           <AttributeID>English Promotion Category</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="efabba86-37fe-422a-949c-984b80863358">
+        <Attribute dwd:design-time-name="b360fe7c-f7b1-4005-8f2c-ffbab70464aa">
           <AttributeID>Start Date</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="4bca8ce1-f725-431a-909c-80d5c88c3ee0">
+        <Attribute dwd:design-time-name="35a65782-c7a1-4200-82df-381fe03dc2ba">
           <AttributeID>End Date</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="d64a8234-4cc1-4fca-addf-0e3424965fcc">
+        <Attribute dwd:design-time-name="404d0615-6fac-4ce7-896d-fbdaaec096b4">
           <AttributeID>Min Qty</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="fda26e28-9497-4fc8-9601-5d28ee9d8484">
+        <Attribute dwd:design-time-name="d6fe80c2-31ea-4595-9a90-d050172fb06e">
           <AttributeID>Max Qty</AttributeID>
         </Attribute>
       </Attributes>
       <Hierarchies>
-        <Hierarchy dwd:design-time-name="c6ddf426-e691-4995-8681-44f15a20a7d0">
+        <Hierarchy dwd:design-time-name="da863aee-b230-4d5a-9517-865dbf019cb0">
           <HierarchyID>Hierarchy</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
-    <Dimension dwd:design-time-name="698f4cb3-61e1-4762-98f3-ed352a86cfd0">
+    <Dimension dwd:design-time-name="c21f4593-66d8-444d-95cd-46607e8bb0d8">
       <ID>Ship Date</ID>
       <Name>Ship Date</Name>
       <DimensionID>Date</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="d9b6156f-3eb5-4729-9d9d-14eced006516">
+        <Attribute dwd:design-time-name="f8453b6a-8256-4c40-81f9-849ce26aa626">
           <AttributeID>Date Key</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="60187b33-4cee-49a8-80fd-491d350a679f">
+        <Attribute dwd:design-time-name="2555f1ae-e601-4288-b76b-f812fe70f463">
           <AttributeID>Full Date Alternate Key</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="983c6726-9b46-498f-82d0-9ce919f7c179">
+        <Attribute dwd:design-time-name="dde617c5-f1ab-4217-b55b-0462afb748a8">
           <AttributeID>Month Name</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="857d6844-63da-4ad1-93aa-9ae3801cf5e4">
+        <Attribute dwd:design-time-name="2c487d09-6918-4970-8040-b5ec3d3f3925">
           <AttributeID>Calendar Quarter</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="6647c604-7d86-417e-a773-6f6dec527f5a">
+        <Attribute dwd:design-time-name="14f2a3ad-2665-40ca-8a32-beb13ae2daa9">
           <AttributeID>Calendar Year</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="6e26e142-b505-41d5-8d08-5703d28941a0">
+        <Attribute dwd:design-time-name="134f5e0b-a1c5-4a91-8c19-c7541d522335">
           <AttributeID>Calendar Semester</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="48cfac17-6a05-4c92-a485-9bf38f3c1a72">
+        <Attribute dwd:design-time-name="b84f95c0-a246-441a-b513-54948fb79386">
           <AttributeID>Fiscal Quarter</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="79916b4c-93bb-4f89-91ac-1a633fdc2324">
+        <Attribute dwd:design-time-name="c2a775b0-aaa2-47b6-ba50-9ed47c5458c7">
           <AttributeID>Fiscal Year</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="d41f0b10-d6fc-4904-abb5-6381d5e60cec">
+        <Attribute dwd:design-time-name="55e64fa1-f388-4af4-9f38-ffd92de15374">
           <AttributeID>Fiscal Semester</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="a38885ea-15e8-47e2-bde3-e3c77258d652">
+        <Attribute dwd:design-time-name="2def35bf-026b-4759-b892-af241dc23c92">
           <AttributeID>Month Number Of Year</AttributeID>
           <AttributeHierarchyEnabled>false</AttributeHierarchyEnabled>
         </Attribute>
       </Attributes>
       <Hierarchies>
-        <Hierarchy dwd:design-time-name="a2bd15e3-8103-437b-b28b-64984c079ee4">
+        <Hierarchy dwd:design-time-name="ea0ebfa5-5ef4-4296-9dd5-2d3d5e94e0af">
           <HierarchyID>Hierarchy</HierarchyID>
         </Hierarchy>
-        <Hierarchy dwd:design-time-name="f8b4f534-0fc0-4563-86fb-1a4aefda90c0">
+        <Hierarchy dwd:design-time-name="9a33a3ff-3996-460c-a7b4-63bba350393d">
           <HierarchyID>Hierarchy 1</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
-    <Dimension dwd:design-time-name="1333064e-4a12-4d82-9e5c-1624ee55c894">
+    <Dimension dwd:design-time-name="24a1d377-81cd-4714-884a-6247c624a171">
       <ID>Due Date</ID>
       <Name>Due Date</Name>
       <DimensionID>Date</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="26ffb12e-50b8-495b-baa0-36bd033a2a48">
+        <Attribute dwd:design-time-name="3be504e3-05a8-41dd-9e7e-e6c5a907bc29">
           <AttributeID>Date Key</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="909d1fcf-11fb-4e13-a40e-642a17d74829">
+        <Attribute dwd:design-time-name="b4ba4cde-9055-4c48-aa6d-817e4fbe0e22">
           <AttributeID>Full Date Alternate Key</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="7cef1246-69dc-4b9b-b9fa-dd1d1d6a2aec">
+        <Attribute dwd:design-time-name="4e12da0f-4de9-450b-95a3-1f0d2f60ff9c">
           <AttributeID>Month Name</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="b044f9f2-6ec3-4b7a-aaa1-2f78c2c546eb">
+        <Attribute dwd:design-time-name="d8b38065-eef8-4cdb-9d70-ba368bf821b6">
           <AttributeID>Calendar Quarter</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="365390f3-ee3d-4b01-b3fe-7a03b607c458">
+        <Attribute dwd:design-time-name="3d08782f-e57b-4a6f-9052-2b99686932ad">
           <AttributeID>Calendar Year</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="dcda8fbf-3706-4b30-9ca8-31ddc9275179">
+        <Attribute dwd:design-time-name="9ee7c29d-4492-44c4-95dd-f815d194e199">
           <AttributeID>Calendar Semester</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="c1f6bdab-dc0a-434a-91b5-d53f5a4f0cde">
+        <Attribute dwd:design-time-name="c696fc74-0035-4307-bb68-b010b1293ffe">
           <AttributeID>Fiscal Quarter</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="159c8372-9d4a-46c6-a62b-d898558a6fe9">
+        <Attribute dwd:design-time-name="c8ef8b09-e567-4197-a638-ac2be3689fe7">
           <AttributeID>Fiscal Year</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="7f1f70d3-066b-4bb3-8a35-423fef9e69eb">
+        <Attribute dwd:design-time-name="4c72be88-7a7f-4f99-96f4-d4444e8e4a0a">
           <AttributeID>Fiscal Semester</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="f92e65e1-68ee-44b8-8ea7-77aaf99a4703">
+        <Attribute dwd:design-time-name="cee00c3d-0ff1-4040-951c-b0d42aa151fa">
           <AttributeID>Month Number Of Year</AttributeID>
           <AttributeHierarchyEnabled>false</AttributeHierarchyEnabled>
         </Attribute>
       </Attributes>
       <Hierarchies>
-        <Hierarchy dwd:design-time-name="5be86564-fcda-448d-8faa-14cc27102de6">
+        <Hierarchy dwd:design-time-name="9cc4a4be-e817-48fa-92a0-2b29700944bd">
           <HierarchyID>Hierarchy</HierarchyID>
         </Hierarchy>
-        <Hierarchy dwd:design-time-name="bcc6dc0f-c593-4569-bfd3-82623588364c">
+        <Hierarchy dwd:design-time-name="05fb693d-da75-4260-9103-f73170adef7b">
           <HierarchyID>Hierarchy 1</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
-    <Dimension dwd:design-time-name="7121169d-4d20-41bc-9e1a-09f0fc66d518">
+    <Dimension dwd:design-time-name="40847c6d-99fd-4511-a53c-2649d03bea42">
       <ID>Order Date</ID>
-      <Name>Order Date</Name>
+      <Name>Date</Name>
       <DimensionID>Date</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="ee2609f1-beb9-4573-b385-8c1530fceb82">
+        <Attribute dwd:design-time-name="5e039bb2-58b4-45a3-9ef9-aa6db023098d">
           <AttributeID>Date Key</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="a17f3187-5864-4b8d-85c5-6f8010f1c018">
+        <Attribute dwd:design-time-name="917f2157-1f51-4bc3-a908-26a073c9a0cd">
           <AttributeID>Full Date Alternate Key</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="0fbc55b0-f368-4942-9a48-b6d72e925294">
+        <Attribute dwd:design-time-name="16b7a4de-f12c-4116-afef-92864788afd3">
           <AttributeID>Month Name</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="4724026f-914f-4f22-8be7-01becae0db6a">
+        <Attribute dwd:design-time-name="031235d9-4a42-456a-8f27-175f040f04ab">
           <AttributeID>Calendar Quarter</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="8690f7e7-25f7-48fb-98a2-1f02128cbe7b">
+        <Attribute dwd:design-time-name="bac3c057-808e-4884-9d20-1d1a61494a8f">
           <AttributeID>Calendar Year</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="e4b68908-d352-44af-9d82-dcddc9c07456">
+        <Attribute dwd:design-time-name="dbedb646-c92f-4005-9f70-cf0278247e72">
           <AttributeID>Calendar Semester</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="91435701-9039-4419-b502-c55a7fbbb400">
+        <Attribute dwd:design-time-name="a121e0e5-d848-4e81-8646-9f92004200ed">
           <AttributeID>Fiscal Quarter</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="78e3b666-c845-4f76-addb-5115e8deb958">
+        <Attribute dwd:design-time-name="2929d2ac-b631-404a-9e87-b1d3ed00e05d">
           <AttributeID>Fiscal Year</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="4fc0e811-751c-4153-ad06-9e471c15d063">
+        <Attribute dwd:design-time-name="136de6c3-ede0-4487-8410-8a93607d2a62">
           <AttributeID>Fiscal Semester</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="9f397125-f0ba-42c4-b8f2-0276907b8ff9">
+        <Attribute dwd:design-time-name="b3aa4b20-6dee-4271-8d2e-ecf073625d30">
           <AttributeID>Month Number Of Year</AttributeID>
           <AttributeHierarchyEnabled>false</AttributeHierarchyEnabled>
         </Attribute>
       </Attributes>
       <Hierarchies>
-        <Hierarchy dwd:design-time-name="3f038479-022d-48c4-961c-d119585b3d00">
+        <Hierarchy dwd:design-time-name="6ac5740c-8552-4f0d-bac3-cd98866694a4">
           <HierarchyID>Hierarchy</HierarchyID>
         </Hierarchy>
-        <Hierarchy dwd:design-time-name="13b55619-1827-4319-98e7-5c7e652bba8c">
+        <Hierarchy dwd:design-time-name="6be441fc-fa94-445f-a7f0-160268569e34">
           <HierarchyID>Hierarchy 1</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
-    <Dimension dwd:design-time-name="4f781970-9e5d-4dca-b09b-f593be2a93da">
+    <Dimension dwd:design-time-name="0c942056-6df8-496c-9470-de624edc086d">
       <ID>Internet Sales Order Details</ID>
       <Name>Internet Sales Order Details</Name>
       <DimensionID>Internet Sales Order Details</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="f9931206-56d9-4254-a461-b10bd0148960">
+        <Attribute dwd:design-time-name="01e63b7a-5e5b-44a8-9840-df7f3735426d">
           <AttributeID>Sales Order Number</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="c3d046d1-8a93-4a1e-b361-58ec6618cbf9">
+        <Attribute dwd:design-time-name="5ff4bab8-77ca-4d4a-ac5b-6cfb7f862b95">
           <AttributeID>Customer PO Number</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="da8e0d53-a799-4bb1-871c-7b321ad4fc7b">
+        <Attribute dwd:design-time-name="7f16dca7-599c-4208-aaad-0c671172a387">
           <AttributeID>Sales Order Number 1</AttributeID>
         </Attribute>
       </Attributes>
       <Hierarchies>
-        <Hierarchy dwd:design-time-name="e1635309-2b9f-461e-8088-b96732f181f8">
+        <Hierarchy dwd:design-time-name="3f5b0607-ec92-4406-b887-4ceaabee0448">
           <HierarchyID>Hierarchy</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
-    <Dimension dwd:design-time-name="40ceade8-8c88-4768-bd34-0a8a6e9989b5">
+    <Dimension dwd:design-time-name="3baf9493-3dee-4a85-b8d1-7105cc6a13ea">
       <ID>Sales Reason</ID>
       <Name>Sales Reason</Name>
       <DimensionID>Sales Reason</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="d825f7a7-3352-4ed7-98ad-25074f95af04">
+        <Attribute dwd:design-time-name="96a2f2c6-9355-4763-873a-dd56939d4fd2">
           <AttributeID>Sales Reason Key</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="655f7ef9-3c97-4374-b587-bdf32aef3df8">
+        <Attribute dwd:design-time-name="bece74c5-c1f0-4e36-8d62-c912fc417ce9">
           <AttributeID>Sales Reason Type</AttributeID>
         </Attribute>
       </Attributes>
       <Hierarchies>
-        <Hierarchy dwd:design-time-name="2b9db672-b5ac-444d-bd9c-5b8a5aac9a8c">
+        <Hierarchy dwd:design-time-name="f569f6e7-0543-4467-89e3-067318be31e4">
           <HierarchyID>Hierarchy</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
   </Dimensions>
   <MeasureGroups>
-    <MeasureGroup dwd:design-time-name="231210f9-78f3-4cb7-892d-b636828864a8">
+    <MeasureGroup dwd:design-time-name="232a18e8-b69f-44b1-a052-dc959aa86d10">
       <ID>Internet Sales</ID>
       <Name>Internet Sales</Name>
       <CreatedTimestamp>0001-01-01T08:00:00Z</CreatedTimestamp>
@@ -1202,134 +1256,134 @@
       <LastProcessed>0001-01-01T08:00:00Z</LastProcessed>
       <State>Unprocessed</State>
       <Measures>
-        <Measure dwd:design-time-name="b33e9f34-6d17-45c5-8aad-2c844d018b5a">
+        <Measure dwd:design-time-name="9b61f62e-b289-4328-882a-e484f5b676db">
           <ID>Order Quantity</ID>
           <Name>Internet Sales-Order Quantity</Name>
-          <Source dwd:design-time-name="7fbc3539-279c-4ffb-be31-d357b327b52b">
+          <Source dwd:design-time-name="803f6590-dcd9-41fa-864f-3520752a0d12">
             <DataType>Integer</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="1acd9c67-df5b-477d-9ec2-ea61b6819186">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="b9637717-4008-4371-9c7f-940ccbb9945d">
               <TableID>dbo_FactInternetSales</TableID>
               <ColumnID>OrderQuantity</ColumnID>
             </Source>
           </Source>
           <FormatString>#,#</FormatString>
         </Measure>
-        <Measure dwd:design-time-name="48162ced-9765-488d-8d2e-05729a98f03f">
+        <Measure dwd:design-time-name="f96634e1-70ec-43e4-ac26-58764f63a151">
           <ID>Unit Price</ID>
           <Name>Internet Sales-Unit Price</Name>
-          <Source dwd:design-time-name="b914feb3-1dd0-4591-b7e2-f9baf5603e60">
+          <Source dwd:design-time-name="ddc7c2c6-4e95-44e2-9147-95da73f2aa10">
             <DataType>Double</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="08b7b83a-eaca-471f-a3db-bd251af515d8">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="9d341aa6-3d00-413e-b9e6-87e0df6d8180">
               <TableID>dbo_FactInternetSales</TableID>
               <ColumnID>UnitPrice</ColumnID>
             </Source>
           </Source>
           <FormatString>Currency</FormatString>
         </Measure>
-        <Measure dwd:design-time-name="d57c7980-4169-4ff2-9ca2-d70ca8cc3957">
+        <Measure dwd:design-time-name="73292ede-a255-4e6d-acb9-5c20711ca053">
           <ID>Extended Amount</ID>
           <Name>Internet Sales-Extended Amount</Name>
-          <Source dwd:design-time-name="218eb65b-0f79-4027-9d6e-1a2a382c72ec">
+          <Source dwd:design-time-name="8428dfcb-d4ea-4708-b0a8-934f17beead8">
             <DataType>Double</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="d13cc64b-2021-4b0b-8972-38358c051e88">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="c132e780-47e3-4e47-a6e2-2e3f41a5351a">
               <TableID>dbo_FactInternetSales</TableID>
               <ColumnID>ExtendedAmount</ColumnID>
             </Source>
           </Source>
           <FormatString>Currency</FormatString>
         </Measure>
-        <Measure dwd:design-time-name="deecdff9-8ecb-4333-8a19-8ac8b2181073">
+        <Measure dwd:design-time-name="d0b5c974-9f96-4a6e-86a8-b2a1d1887e03">
           <ID>Unit Price Discount Pct</ID>
           <Name>Internet Sales-Unit Price Discount Percentage</Name>
-          <Source dwd:design-time-name="1a08c594-fd4e-416f-b762-0ad9b7a51483">
+          <Source dwd:design-time-name="155f37f8-f2d3-4ec0-91dd-d8cbc84c8706">
             <DataType>Double</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="af1bd98b-289c-4360-9bea-6ba07e1ade0d">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="4604467d-d6f2-4635-b5d2-218c05a03d09">
               <TableID>dbo_FactInternetSales</TableID>
               <ColumnID>UnitPriceDiscountPct</ColumnID>
             </Source>
           </Source>
           <FormatString>Percent</FormatString>
         </Measure>
-        <Measure dwd:design-time-name="eee48455-8424-4145-806d-f704509541d0">
+        <Measure dwd:design-time-name="1f11656b-6449-4080-a569-59010b80a8bb">
           <ID>Discount Amount</ID>
           <Name>Internet Sales-Discount Amount</Name>
-          <Source dwd:design-time-name="9a652ccf-fb6b-4cdb-aa6c-9930204c14d8">
+          <Source dwd:design-time-name="0a0c4998-266d-4ce1-b35d-137629983b39">
             <DataType>Double</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="e34b4544-81bf-4703-b637-6b4ddc49ce0b">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="f6a44d0f-8d9d-4bd9-bec2-cecaf965e2e3">
               <TableID>dbo_FactInternetSales</TableID>
               <ColumnID>DiscountAmount</ColumnID>
             </Source>
           </Source>
           <FormatString>Currency</FormatString>
         </Measure>
-        <Measure dwd:design-time-name="8f12b5d3-7ef6-473e-9bd7-e2482b06a862">
+        <Measure dwd:design-time-name="33999240-875a-4e3e-abaf-f66290b20f1a">
           <ID>Product Standard Cost</ID>
           <Name>Internet Sales-Product Standard Cost</Name>
-          <Source dwd:design-time-name="8926d8c6-a61e-494a-8e7e-1cbbacbeae5f">
+          <Source dwd:design-time-name="8732b9f0-0306-482c-9bb2-e4c79da85855">
             <DataType>Double</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="a752ddf8-93a0-4614-9144-e93c501c52b6">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="999b846c-3851-4499-8136-63f33b8ef0f2">
               <TableID>dbo_FactInternetSales</TableID>
               <ColumnID>ProductStandardCost</ColumnID>
             </Source>
           </Source>
           <FormatString>Currency</FormatString>
         </Measure>
-        <Measure dwd:design-time-name="5701e978-ed52-4cf6-8980-73f02779279a">
+        <Measure dwd:design-time-name="04c28571-e2d5-4e19-ac5a-a90e8bf293a6">
           <ID>Total Product Cost</ID>
           <Name>Internet Sales-Total Product Cost</Name>
-          <Source dwd:design-time-name="8fc759e9-eb55-445c-a5fc-1e66243b503d">
+          <Source dwd:design-time-name="a1507c18-4128-4254-b386-05656b2dacbe">
             <DataType>Double</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="33614cba-b92d-4041-a337-29a41e34ccee">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="0cae870b-f62b-443b-a04f-d9b56536c74c">
               <TableID>dbo_FactInternetSales</TableID>
               <ColumnID>TotalProductCost</ColumnID>
             </Source>
           </Source>
           <FormatString>Currency</FormatString>
         </Measure>
-        <Measure dwd:design-time-name="cc40e917-c975-4189-ba06-388dd4ac297f">
+        <Measure dwd:design-time-name="1a01a6a5-9665-4776-bd51-98539ab9e01a">
           <ID>Sales Amount</ID>
           <Name>Internet Sales-Sales Amount</Name>
-          <Source dwd:design-time-name="7823ba11-b524-4184-bd75-37d20ce46bd0">
+          <Source dwd:design-time-name="4aa8ef00-dae8-4ed0-8468-8e9c92a3a8e9">
             <DataType>Double</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="6133a4bf-0e1a-4e85-b669-9cabb8bb99e2">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="c086a55d-7c90-4769-81dd-eff99a0e0050">
               <TableID>dbo_FactInternetSales</TableID>
               <ColumnID>SalesAmount</ColumnID>
             </Source>
           </Source>
           <FormatString>Currency</FormatString>
         </Measure>
-        <Measure dwd:design-time-name="5b5da6a4-0b78-45be-98c3-2372547ba2e7">
+        <Measure dwd:design-time-name="6ea223ad-7e84-42c3-b28c-76f15f0df41e">
           <ID>Tax Amt</ID>
           <Name>Internet Sales-Tax Amount</Name>
-          <Source dwd:design-time-name="0e26d324-6997-4d6d-8770-fae783b78c43">
+          <Source dwd:design-time-name="0f1b7051-3a35-40e0-87d9-74f7d7b199dd">
             <DataType>Double</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="1f013c5e-f752-425d-8269-0656a909b020">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="1713d8b1-4d38-4f70-9c5b-72864010a1d7">
               <TableID>dbo_FactInternetSales</TableID>
               <ColumnID>TaxAmt</ColumnID>
             </Source>
           </Source>
           <FormatString>Currency</FormatString>
         </Measure>
-        <Measure dwd:design-time-name="238f840a-e716-4d76-8ceb-224d5f6698d0">
+        <Measure dwd:design-time-name="61971386-6a80-4d8c-9bc3-7669d5017a4c">
           <ID>Freight</ID>
           <Name>Internet Sales-Freight</Name>
-          <Source dwd:design-time-name="14853f21-4628-46a6-a5c2-51840b904ce3">
+          <Source dwd:design-time-name="de67cbf9-d929-4607-a219-0fc114965feb">
             <DataType>Double</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="34aa20c0-d2db-49ee-80ab-8bdf8f7d580e">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="7128cd3f-4d02-4207-80ec-cc9552c85883">
               <TableID>dbo_FactInternetSales</TableID>
               <ColumnID>Freight</ColumnID>
             </Source>
           </Source>
           <FormatString>Currency</FormatString>
         </Measure>
-        <Measure dwd:design-time-name="7f738826-25ad-41cb-baa0-674746f5044a">
+        <Measure dwd:design-time-name="918ebbc8-bd4a-4818-b363-e08176a9825a">
           <ID>Internet Sales Count</ID>
           <Name>Internet Sales Count</Name>
           <AggregateFunction>Count</AggregateFunction>
-          <Source dwd:design-time-name="2863ac16-9d46-4459-b660-0eb70ebd23de">
+          <Source dwd:design-time-name="95b8cd38-babf-49ca-ad6f-4fb0351f66ca">
             <DataType>Integer</DataType>
             <DataSize>4</DataSize>
-            <Source xsi:type="RowBinding" dwd:design-time-name="a0c8e203-af11-4617-8cf8-ad3ee40e5eb3">
+            <Source xsi:type="RowBinding" dwd:design-time-name="154880f8-8bc7-4be3-94a0-971410cfa503">
               <TableID>dbo_FactInternetSales</TableID>
             </Source>
           </Source>
@@ -1339,15 +1393,15 @@
       <StorageMode>Molap</StorageMode>
       <ProcessingMode>Regular</ProcessingMode>
       <Dimensions>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="de5778b5-5fc6-4aa6-b1e4-1291e4e48f56">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="8becee75-249c-4aab-a25d-c3e763b1e0fd">
           <CubeDimensionID>Product</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="fcab326c-fbf4-419b-8ce3-ea64a43b19bb">
+            <Attribute dwd:design-time-name="dd831fa4-a366-47d8-a41d-730f17a7558e">
               <AttributeID>Product</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="0623d2cd-493d-4d80-a4a6-42c9d23c3a13">
+                <KeyColumn dwd:design-time-name="3f60695e-8290-4695-bdb3-c642cd031c5a">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="60bba594-87d9-46ee-9a63-1cb3166cecf7">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="0cfa0687-87eb-42a2-98ac-176aae11781e">
                     <TableID>dbo_FactInternetSales</TableID>
                     <ColumnID>ProductKey</ColumnID>
                   </Source>
@@ -1357,15 +1411,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="8be1775c-d813-46c6-9266-0c4b66eb5a46">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="b7efbfd4-f29b-474d-b427-98a85135f7d8">
           <CubeDimensionID>Customer</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="ff978ba5-49ad-421a-a446-00aed6401179">
+            <Attribute dwd:design-time-name="76056c20-4d4e-495b-b945-31ae2fbe61a5">
               <AttributeID>Customer</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="c0ef44c7-d0de-43c9-a666-710c489aa3a9">
+                <KeyColumn dwd:design-time-name="141b273c-f44c-41fc-9c82-affc7297fdbf">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="cdd2a88d-e1ef-43ef-9c92-df06227a8316">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="c9fdfd67-9722-43aa-bf98-8f1991ea37ae">
                     <TableID>dbo_FactInternetSales</TableID>
                     <ColumnID>CustomerKey</ColumnID>
                   </Source>
@@ -1375,15 +1429,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="a69081e5-f3a9-44f3-b05b-f4878b5282ca">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="77af6680-8b91-4506-b556-44d6f52fa2cf">
           <CubeDimensionID>Promotion</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="4fd56a74-c4e4-4121-9320-25c5145ba80e">
+            <Attribute dwd:design-time-name="30b02950-c14c-48c6-ae41-a32b0f6a98ea">
               <AttributeID>Promotion</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="f90b5729-0f7b-45df-9180-5fc4b859c0aa">
+                <KeyColumn dwd:design-time-name="16d11b1d-6637-4d53-8a7c-e2800030b143">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="0c508fd3-6589-4bea-9cc7-2927fd5865f4">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="843ab304-57b3-4de4-978d-996fd9edc819">
                     <TableID>dbo_FactInternetSales</TableID>
                     <ColumnID>PromotionKey</ColumnID>
                   </Source>
@@ -1393,15 +1447,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="f1f10acf-e24f-46fd-8dc9-d5adb49d680f">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="a8661424-4583-45d9-bf2a-79299f3a57d4">
           <CubeDimensionID>Sales Territory</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="052bef3f-bc6a-45de-8af7-cc64a9e23a2f">
+            <Attribute dwd:design-time-name="000cbf81-75bf-4961-9b87-e47df3d39596">
               <AttributeID>Sales Territory</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="e2774a1d-de3e-4408-b891-cf51bbb55361">
+                <KeyColumn dwd:design-time-name="2adeb587-ea1a-4423-923c-2165b7c7be7d">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="4d31d3a5-9c15-4204-8ca6-fe992f64d462">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="f6a00879-5e7a-4e1d-97e1-ea27125b5459">
                     <TableID>dbo_FactInternetSales</TableID>
                     <ColumnID>SalesTerritoryKey</ColumnID>
                   </Source>
@@ -1411,15 +1465,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="4baf4ef4-9e5e-4a2c-a8e1-5417d3d25ba8">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="692e5a4d-af14-4384-8114-cbeef56ee011">
           <CubeDimensionID>Ship Date</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="fcb50383-d70b-4ba3-a5a2-b802a447c370">
+            <Attribute dwd:design-time-name="52b51df2-7396-4451-854b-7f68940f7926">
               <AttributeID>Date Key</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="4e183cbd-1886-4914-8948-7d3d65480174">
+                <KeyColumn dwd:design-time-name="f042574b-f443-4960-ba41-d59ab4f800c7">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="038237e8-c467-42be-b69e-a7958321de77">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="ca7f4dfb-6710-460f-88d1-4c706795bad9">
                     <TableID>dbo_FactInternetSales</TableID>
                     <ColumnID>ShipDateKey</ColumnID>
                   </Source>
@@ -1429,15 +1483,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="df5d25bf-ca2a-4829-9414-b55fdfddeb0a">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="6fe990a9-20c0-4cc9-8fe5-c97202072ebd">
           <CubeDimensionID>Due Date</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="d1434f9a-84f2-4d25-b32d-7056b3d3c4a8">
+            <Attribute dwd:design-time-name="58f6a450-1470-4954-a775-fff3bf349164">
               <AttributeID>Date Key</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="1dccff77-5f33-4772-b168-79583ea1f264">
+                <KeyColumn dwd:design-time-name="6710057d-162b-40a1-93fb-754008dc940b">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="0d051647-facd-45ae-8a89-e421b01cfe0f">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="f6d29ad1-58e6-4b3d-b8b2-3b1b4d4035e1">
                     <TableID>dbo_FactInternetSales</TableID>
                     <ColumnID>DueDateKey</ColumnID>
                   </Source>
@@ -1447,15 +1501,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="7c6e2226-8edc-472b-b7f2-09c45d23957a">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="8c44beb5-91f5-443e-9648-542a041a077b">
           <CubeDimensionID>Order Date</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="ca21a0ea-2c47-4946-a6da-c152cffb2532">
+            <Attribute dwd:design-time-name="482dc9b5-59ef-47b8-8cf5-105f5b72e129">
               <AttributeID>Date Key</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="249662ff-c9ca-4b15-bd5a-b9b58e48270c">
+                <KeyColumn dwd:design-time-name="ac6630f2-9a18-4f18-93e0-fc6067c2d7a5">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="eee8dede-6e3a-47d4-bc7a-186db90575e6">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="0b4a0f52-6d9e-4161-94fe-ab7e5cd5bd27">
                     <TableID>dbo_FactInternetSales</TableID>
                     <ColumnID>OrderDateKey</ColumnID>
                   </Source>
@@ -1465,23 +1519,23 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="DegenerateMeasureGroupDimension" dwd:design-time-name="3f9063ea-31a5-4a32-ac0d-3318ecf7b5e2">
+        <Dimension xsi:type="DegenerateMeasureGroupDimension" dwd:design-time-name="f4c670b7-a590-4989-9a99-347990ee99bf">
           <CubeDimensionID>Internet Sales Order Details</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="831abefe-eaf6-4c6f-9f99-4110f87fe59e">
+            <Attribute dwd:design-time-name="70a0f4d7-82ab-4f9a-9a8c-47f103ba8e3d">
               <AttributeID>Sales Order Number</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="22aa33e8-8708-4e16-8a48-f63eb3552222">
+                <KeyColumn dwd:design-time-name="c8f9c3a4-1301-4afe-8923-0694d9b672b1">
                   <DataType>WChar</DataType>
                   <DataSize>20</DataSize>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="8107bbe4-4b7f-4187-83aa-6b81a20d592d">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="6bf3a22c-df80-4d6a-8c22-cafdb170bde4">
                     <TableID>dbo_FactInternetSales</TableID>
                     <ColumnID>SalesOrderNumber</ColumnID>
                   </Source>
                 </KeyColumn>
-                <KeyColumn dwd:design-time-name="b744ed99-1581-4425-9296-d3e5661cc25d">
+                <KeyColumn dwd:design-time-name="3a3d33e8-a8b8-4f27-b577-d7a126759914">
                   <DataType>UnsignedTinyInt</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="a681b76a-e130-4562-8f5d-5d0bc245392b">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="c4addc27-2b9a-4c6f-8022-9a2b40776168">
                     <TableID>dbo_FactInternetSales</TableID>
                     <ColumnID>SalesOrderLineNumber</ColumnID>
                   </Source>
@@ -1491,14 +1545,14 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="ManyToManyMeasureGroupDimension" dwd:design-time-name="d65a5736-9d4d-4add-95e8-fee9d6e8dc24">
+        <Dimension xsi:type="ManyToManyMeasureGroupDimension" dwd:design-time-name="b3b30c39-deb1-4903-bc82-780836328a7f">
           <CubeDimensionID>Sales Reason</CubeDimensionID>
           <MeasureGroupID>Internet Sales Reason</MeasureGroupID>
         </Dimension>
       </Dimensions>
       <Partitions />
     </MeasureGroup>
-    <MeasureGroup dwd:design-time-name="7b01c6be-e76c-4a23-813e-b669f76e2d80">
+    <MeasureGroup dwd:design-time-name="57668ea5-4703-4eb2-a1e1-b20cb6a1bb69">
       <ID>Reseller Sales</ID>
       <Name>Reseller Sales</Name>
       <CreatedTimestamp>0001-01-01T08:00:00Z</CreatedTimestamp>
@@ -1506,134 +1560,134 @@
       <LastProcessed>0001-01-01T08:00:00Z</LastProcessed>
       <State>Unprocessed</State>
       <Measures>
-        <Measure dwd:design-time-name="c07bdfe5-118d-4138-b62c-8e67be7706a1">
+        <Measure dwd:design-time-name="31cd98ba-e0f2-481e-954d-ce9c859973c4">
           <ID>Order Quantity - Reseller Sales</ID>
           <Name>Reseller Sales-Order Quantity</Name>
-          <Source dwd:design-time-name="91e84119-30e1-437b-b138-c3d9913a5267">
+          <Source dwd:design-time-name="8bde7d9b-cc73-4f92-8f5c-3ee03ccee088">
             <DataType>Integer</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="c5a8fc65-704e-4dbf-9b7b-607970c8d924">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="22040239-7948-45c1-8c2c-3649e8648ed4">
               <TableID>dbo_FactResellerSales</TableID>
               <ColumnID>OrderQuantity</ColumnID>
             </Source>
           </Source>
           <FormatString>#,#</FormatString>
         </Measure>
-        <Measure dwd:design-time-name="1a40fca6-6aa9-447b-970b-c315dc3a8d4c">
+        <Measure dwd:design-time-name="19c7bf44-49ea-4eea-a291-56271618a49c">
           <ID>Unit Price - Reseller Sales</ID>
           <Name>Reseller Sales-Unit Price</Name>
-          <Source dwd:design-time-name="58b0e65e-9bfe-4c00-b015-cfc342666e7c">
+          <Source dwd:design-time-name="b620bddd-0baf-4389-a685-eb4058f0a428">
             <DataType>Double</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="a1de7d9a-5f00-469d-8452-2269d2632ac3">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="c67d29ee-d98d-4e68-b8eb-bbeaae01c72e">
               <TableID>dbo_FactResellerSales</TableID>
               <ColumnID>UnitPrice</ColumnID>
             </Source>
           </Source>
           <FormatString>Currency</FormatString>
         </Measure>
-        <Measure dwd:design-time-name="dd65c761-fc71-40ce-aff2-f868b3733f2c">
+        <Measure dwd:design-time-name="62f9be99-7623-4dca-88e8-888239a9b97f">
           <ID>Extended Amount - Reseller Sales</ID>
           <Name>Reseller Sales-Extended Amount</Name>
-          <Source dwd:design-time-name="110c0b3d-88b3-46d1-a583-550a0495e159">
+          <Source dwd:design-time-name="e58ffa06-652e-434c-9ee8-d8869ebed445">
             <DataType>Double</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="adc5e3b0-c803-4a20-a472-fc34b347b7d5">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="e5d7d9f0-707e-4d39-b15e-55fedd13cea0">
               <TableID>dbo_FactResellerSales</TableID>
               <ColumnID>ExtendedAmount</ColumnID>
             </Source>
           </Source>
           <FormatString>Currency</FormatString>
         </Measure>
-        <Measure dwd:design-time-name="fb90252a-202e-409e-ad0d-427d6f5e8ab4">
+        <Measure dwd:design-time-name="10f702a0-d9d1-4988-a483-69e0d88842e6">
           <ID>Unit Price Discount Pct 1</ID>
           <Name>Reseller Sales-Unit Price Discount Percentage</Name>
-          <Source dwd:design-time-name="d1e3d28c-fbbb-42f2-b08c-fecc362e9677">
+          <Source dwd:design-time-name="09794fe5-ce96-4602-bac2-b3ca621e56d2">
             <DataType>Double</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="7c353ced-58c3-48ad-8b1d-1fea5ff97a35">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="29a6783a-5e27-4215-b641-8b3035195a4b">
               <TableID>dbo_FactResellerSales</TableID>
               <ColumnID>UnitPriceDiscountPct</ColumnID>
             </Source>
           </Source>
           <FormatString>Percent</FormatString>
         </Measure>
-        <Measure dwd:design-time-name="08391e2b-039a-4a1f-a093-59fcfad27a29">
+        <Measure dwd:design-time-name="43cdf201-18be-44c5-a61a-8f0df00b10e6">
           <ID>Discount Amount - Reseller Sales</ID>
           <Name>Reseller Sales-Discount Amount</Name>
-          <Source dwd:design-time-name="c9c454fe-ad3a-4d28-9bb0-abbeee7216a3">
+          <Source dwd:design-time-name="4c6de749-1e17-4929-b8f5-c2b5ae12f201">
             <DataType>Double</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="bbfe8b0d-9c47-4c51-9170-5281308902bb">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="ebfb8c44-23da-4d5c-a76a-ad9945ed65f6">
               <TableID>dbo_FactResellerSales</TableID>
               <ColumnID>DiscountAmount</ColumnID>
             </Source>
           </Source>
           <FormatString>Currency</FormatString>
         </Measure>
-        <Measure dwd:design-time-name="16e3efd1-3857-460d-90ec-6c503b8abb13">
+        <Measure dwd:design-time-name="2971f68a-e23f-4df6-99bb-6a134db85555">
           <ID>Product Standard Cost - Reseller Sales</ID>
           <Name>Reseller Sales-Product Standard Cost</Name>
-          <Source dwd:design-time-name="09d4dbaf-dabf-4398-aef6-05c9ab497093">
+          <Source dwd:design-time-name="73da26f9-b05d-41e3-a7d6-700ca7714607">
             <DataType>Double</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="4572e1f5-6b49-4028-a288-40b8723675ea">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="b26f03d9-ac78-4e6c-8478-84a14b0562ba">
               <TableID>dbo_FactResellerSales</TableID>
               <ColumnID>ProductStandardCost</ColumnID>
             </Source>
           </Source>
           <FormatString>Currency</FormatString>
         </Measure>
-        <Measure dwd:design-time-name="64107618-e1d9-483d-af0a-22a0ed1ca286">
+        <Measure dwd:design-time-name="7c677d3e-bfce-4152-b40e-eb94195358f4">
           <ID>Total Product Cost - Reseller Sales</ID>
           <Name>Reseller Sales-Total Product Cost</Name>
-          <Source dwd:design-time-name="b19bafeb-20a8-47f1-9753-8b000fbcaea5">
+          <Source dwd:design-time-name="33135bcd-7e92-4f6a-94cb-7afe37cad1a2">
             <DataType>Double</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="8fd763b8-18b1-46bf-ae62-ef2c617993b1">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="3568a97f-6112-493e-8369-ec9d00c3325a">
               <TableID>dbo_FactResellerSales</TableID>
               <ColumnID>TotalProductCost</ColumnID>
             </Source>
           </Source>
           <FormatString>Currency</FormatString>
         </Measure>
-        <Measure dwd:design-time-name="4bc5f5ec-18a2-43b0-80a4-3584f570ba34">
+        <Measure dwd:design-time-name="88a9da0e-116d-4bd7-aa66-79ea24b466bc">
           <ID>Sales Amount - Reseller Sales</ID>
           <Name>Reseller Sales-Sales Amount</Name>
-          <Source dwd:design-time-name="fb1b922f-c581-4e17-995a-791fbf14897a">
+          <Source dwd:design-time-name="50c26890-a484-483f-896b-cc0662ad3bf3">
             <DataType>Double</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="805354bc-ab41-44c3-985f-056e84070207">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="aaf86f5b-f3d4-4763-aeb4-4f3b5a2ab613">
               <TableID>dbo_FactResellerSales</TableID>
               <ColumnID>SalesAmount</ColumnID>
             </Source>
           </Source>
           <FormatString>Currency</FormatString>
         </Measure>
-        <Measure dwd:design-time-name="893be702-1783-49ec-8668-d28c929f06fc">
+        <Measure dwd:design-time-name="e30318a6-a046-458d-8a9e-54cbbbbb04b3">
           <ID>Tax Amt 1</ID>
           <Name>Reseller Sales-Tax Amount</Name>
-          <Source dwd:design-time-name="205154bc-cf2a-430a-9a64-03d3210043a6">
+          <Source dwd:design-time-name="bba8b21e-2e62-484b-94b1-4253e3d96e32">
             <DataType>Double</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="6d057d3d-bd54-4dc3-9a9b-450363a9f952">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="69ab31cb-f611-4beb-b527-3a08ff6df326">
               <TableID>dbo_FactResellerSales</TableID>
               <ColumnID>TaxAmt</ColumnID>
             </Source>
           </Source>
           <FormatString>Currency</FormatString>
         </Measure>
-        <Measure dwd:design-time-name="16c953b0-3afe-46ca-aa23-19907f699d88">
+        <Measure dwd:design-time-name="bd538ec7-3cd5-4d20-8cd9-bd008fb7326e">
           <ID>Freight - Reseller Sales</ID>
           <Name>Reseller Sales-Freight</Name>
-          <Source dwd:design-time-name="48792af9-1fe3-44d6-b143-c841e2173f6f">
+          <Source dwd:design-time-name="7c43efd9-9a00-4292-8a0f-772294bf80f6">
             <DataType>Double</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="c21caf9d-f024-4362-8b5e-2851463823d1">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="1346cb37-67b6-406d-be2b-e8e2c5309b77">
               <TableID>dbo_FactResellerSales</TableID>
               <ColumnID>Freight</ColumnID>
             </Source>
           </Source>
           <FormatString>Currency</FormatString>
         </Measure>
-        <Measure dwd:design-time-name="f4f74df2-84b1-4640-8a12-2cdb1345ea16">
+        <Measure dwd:design-time-name="227e2e73-c695-4a2d-ab0e-e133564d7d4b">
           <ID>Reseller Sales Count</ID>
           <Name>Reseller Sales Count</Name>
           <AggregateFunction>Count</AggregateFunction>
-          <Source dwd:design-time-name="33a01f38-c5b5-48f8-925b-84c75e51c433">
+          <Source dwd:design-time-name="c6e0059e-fcf1-45c8-a757-0ffcbff2215d">
             <DataType>Integer</DataType>
             <DataSize>4</DataSize>
-            <Source xsi:type="RowBinding" dwd:design-time-name="63308a09-3dbc-47f0-a0f3-5c39ccd7a780">
+            <Source xsi:type="RowBinding" dwd:design-time-name="729a090e-11b3-4ef0-952b-127a381139f5">
               <TableID>dbo_FactResellerSales</TableID>
             </Source>
           </Source>
@@ -1642,15 +1696,15 @@
       <StorageMode>Molap</StorageMode>
       <ProcessingMode>Regular</ProcessingMode>
       <Dimensions>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="7399409d-812b-4aa1-a687-a2eb4f8675b6">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="83362966-006f-45c4-a202-399b017963b5">
           <CubeDimensionID>Employee</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="33746af8-5ff1-4fda-8b6b-71de31d8a792">
+            <Attribute dwd:design-time-name="34c39502-8ba4-4447-9ed8-62739e4aa7fb">
               <AttributeID>Employee</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="291860b2-5579-4707-a7a8-aa1df781ea30">
+                <KeyColumn dwd:design-time-name="c1a37fa4-7672-4603-bebc-2fef523734c2">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="f4ebbd8d-7241-4116-a696-86a3472be59d">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="cd833fc8-e755-4077-95cf-e5a845039da7">
                     <TableID>dbo_FactResellerSales</TableID>
                     <ColumnID>EmployeeKey</ColumnID>
                   </Source>
@@ -1660,15 +1714,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="11973692-b9d7-41cc-a99d-08518bb388d1">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="fae233e9-c274-4bb4-aa88-f8bebfc11a82">
           <CubeDimensionID>Reseller</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="5f359c86-3fd0-4527-9568-0fe08c6fa1ac">
+            <Attribute dwd:design-time-name="b8380533-fe08-4b74-a15a-f3e52ba33933">
               <AttributeID>Reseller</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="9628fd0a-4121-498b-8070-84275066f604">
+                <KeyColumn dwd:design-time-name="a199de2c-c70b-4d3d-b16e-866ad1126f61">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="cd3f2ab6-382d-47a7-9483-0eaed58db0df">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="cbd46f08-1fef-478b-861e-57eb67e42078">
                     <TableID>dbo_FactResellerSales</TableID>
                     <ColumnID>ResellerKey</ColumnID>
                   </Source>
@@ -1678,15 +1732,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="fac2ba49-7a22-4461-8a3f-44a6c2b27d92">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="7b8fb486-131f-411f-91f1-bdbe56d538b8">
           <CubeDimensionID>Promotion</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="22c6c98f-c009-4524-a502-07a2255f51c3">
+            <Attribute dwd:design-time-name="c1b332d0-2626-4c38-8cf2-5cd7bc570ef7">
               <AttributeID>Promotion</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="ba8ad077-7563-41ce-b1db-006f9df42591">
+                <KeyColumn dwd:design-time-name="6f426b2c-1719-4d23-9157-a3cf7c753d1e">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="52d8f162-aac3-4c4d-a9e5-5e20669e661d">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="d3174cb8-3194-4564-8eb4-354f0c974336">
                     <TableID>dbo_FactResellerSales</TableID>
                     <ColumnID>PromotionKey</ColumnID>
                   </Source>
@@ -1696,15 +1750,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="9768d373-49f6-4cd6-a5db-7597102cadac">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="46bdf381-6241-4ef4-ab4c-3c123c2b774e">
           <CubeDimensionID>Product</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="31185abc-712e-4f63-afb5-b7a647fef73a">
+            <Attribute dwd:design-time-name="d3d3a879-5fc1-4f30-9970-1c008dd014cf">
               <AttributeID>Product</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="aa789d70-6fe3-4e21-a865-ced7f70ef820">
+                <KeyColumn dwd:design-time-name="7f265cc7-d420-4a6d-9ba9-aca4577f0309">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="c0473499-ff25-4d83-ba52-adfa304f0b36">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="174ef776-bb05-473f-8a10-4bd1f9b66baf">
                     <TableID>dbo_FactResellerSales</TableID>
                     <ColumnID>ProductKey</ColumnID>
                   </Source>
@@ -1714,15 +1768,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="167ceda1-8999-4a71-a2ca-a08caeff2451">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="92981c89-4124-4a5b-90ca-b906e4a5626f">
           <CubeDimensionID>Sales Territory</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="e985ca56-e7ff-496b-be3a-e3c5543ff61c">
+            <Attribute dwd:design-time-name="5a9085b3-f12b-4916-ae5b-db157933bbc5">
               <AttributeID>Sales Territory</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="95fba99f-94c8-4ad2-b769-533e74ccdaa1">
+                <KeyColumn dwd:design-time-name="b66f02dc-eb50-48cb-b219-2e75a502e77e">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="6aa6f9d9-61f7-4042-9b5e-c13bb48ead09">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="a6bef1cd-4cd6-4b74-97f3-6e3c8b0b12e5">
                     <TableID>dbo_FactResellerSales</TableID>
                     <ColumnID>SalesTerritoryKey</ColumnID>
                   </Source>
@@ -1732,15 +1786,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="c28d107b-6df9-49d0-9bca-9ade069c4035">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="76a6c8c0-292b-450f-9fa7-5b07280a2df9">
           <CubeDimensionID>Ship Date</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="b8c32890-c371-45c8-9109-79e0210cb766">
+            <Attribute dwd:design-time-name="20235cac-7145-4eeb-a82e-c0be9a12fd53">
               <AttributeID>Date Key</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="558925e5-d15e-4152-9a3a-b4c962875494">
+                <KeyColumn dwd:design-time-name="5cfbd8b8-3f2a-47b7-9470-3ed0f7be4f51">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="54d7c49d-0de4-4cfa-8172-6b949a1c316b">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="c28cd856-3e18-4ae1-bbc5-a5a54d0246a0">
                     <TableID>dbo_FactResellerSales</TableID>
                     <ColumnID>ShipDateKey</ColumnID>
                   </Source>
@@ -1750,15 +1804,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="c2a7d33f-32aa-40fe-9cdc-73a8373b3c48">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="f272b7d8-27f5-404b-a9d1-9efb364af69e">
           <CubeDimensionID>Due Date</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="c7c07402-5eaa-40e7-81bb-5ecab46bc485">
+            <Attribute dwd:design-time-name="ae164eab-bbf2-4097-b102-d24059443c5d">
               <AttributeID>Date Key</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="66a068f2-d47a-4749-a9a8-2c6826f71860">
+                <KeyColumn dwd:design-time-name="1c705aa9-fc45-4a04-a740-f675fa4591df">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="909922b0-7eba-4fb0-8d58-159db75b394c">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="8ab83566-07b3-4749-8c7a-f858e6ecf199">
                     <TableID>dbo_FactResellerSales</TableID>
                     <ColumnID>DueDateKey</ColumnID>
                   </Source>
@@ -1768,15 +1822,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="3acdc499-078c-41a4-a127-f1265ccf5995">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="b52ac2a6-6d85-40e4-85df-2cc675e4ffd7">
           <CubeDimensionID>Order Date</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="3e09fc48-d21e-485b-9a0d-4af427bf3fec">
+            <Attribute dwd:design-time-name="6c1a8857-cf75-413f-802a-1242666686c7">
               <AttributeID>Date Key</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="349fb3c9-0039-4788-a6ae-829f1ed4d971">
+                <KeyColumn dwd:design-time-name="45fa8f67-779a-405b-91d6-be12e2663f2f">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="ba02d45e-0be1-45c6-a8b6-99042513b124">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="8fa22a8b-aae0-47cc-8223-f9acb6cb4c47">
                     <TableID>dbo_FactResellerSales</TableID>
                     <ColumnID>OrderDateKey</ColumnID>
                   </Source>
@@ -1786,10 +1840,10 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="ef16c5de-55b2-484f-ab50-1b91d0b91d98">
+        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="48c72663-280e-4251-a2f8-79e1603b9b74">
           <CubeDimensionID>Geography</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="6ebb8623-3123-4f56-b4b9-cf6db8c21cde">
+            <Attribute dwd:design-time-name="0840f82d-188d-4e43-804b-48f8ea64c192">
               <AttributeID>Geography</AttributeID>
               <Type>Granularity</Type>
             </Attribute>
@@ -1802,22 +1856,22 @@
       </Dimensions>
       <Partitions />
     </MeasureGroup>
-    <MeasureGroup dwd:design-time-name="a46d8d6a-bf83-4c3c-a34c-7f1e709b0e58">
+    <MeasureGroup dwd:design-time-name="fb301235-733d-42c4-9393-e25f14e783cd">
       <ID>Internet Sales Reason</ID>
       <Name>Internet Sales Reason</Name>
-      <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
-      <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
-      <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+      <CreatedTimestamp>0001-01-01T02:00:00Z</CreatedTimestamp>
+      <LastSchemaUpdate>0001-01-01T02:00:00Z</LastSchemaUpdate>
+      <LastProcessed>0001-01-01T02:00:00Z</LastProcessed>
       <State>Unprocessed</State>
       <Measures>
-        <Measure dwd:design-time-name="a7373ce7-bb52-4bac-b0fc-5ecf5e90c8f9">
+        <Measure dwd:design-time-name="7ef08cce-3a83-4dc4-83d3-42d4901f5652">
           <ID>Internet Sales Reason Count</ID>
           <Name>Internet Sales Reason Count</Name>
           <AggregateFunction>Count</AggregateFunction>
-          <Source dwd:design-time-name="75ad6114-73eb-4262-89bd-4cd61ff5bce3">
+          <Source dwd:design-time-name="f36360b4-cb5a-4e2e-ba6a-d861aa37077c">
             <DataType>Integer</DataType>
             <DataSize>4</DataSize>
-            <Source xsi:type="RowBinding" dwd:design-time-name="ea39dc6e-9dc1-4d8e-aab8-c6090397d8e1">
+            <Source xsi:type="RowBinding" dwd:design-time-name="d5f67de1-0851-48c0-97ac-fccce670f2b8">
               <TableID>dbo_FactInternetSalesReason</TableID>
             </Source>
           </Source>
@@ -1827,23 +1881,23 @@
       <StorageMode>Molap</StorageMode>
       <ProcessingMode>Regular</ProcessingMode>
       <Dimensions>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="34579f9e-3dce-4578-bca4-27e77678effc">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="f010fc38-b963-4478-b021-1d70ace47530">
           <CubeDimensionID>Internet Sales Order Details</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="84f11d88-15d8-4044-85ea-13ebbf4eced1">
+            <Attribute dwd:design-time-name="7785e7db-756d-44b8-9f10-07bdf01842ff">
               <AttributeID>Sales Order Number</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="b8ade565-20a3-440a-8cd6-b005dee359f1">
+                <KeyColumn dwd:design-time-name="f68668b0-d030-4c59-8178-a68892a7b999">
                   <DataType>WChar</DataType>
                   <DataSize>20</DataSize>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="e401d004-e5ef-4600-948e-c8fd3aadef81">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="c718b1f3-773f-4856-9ace-4d6b9fe7e570">
                     <TableID>dbo_FactInternetSalesReason</TableID>
                     <ColumnID>SalesOrderNumber</ColumnID>
                   </Source>
                 </KeyColumn>
-                <KeyColumn dwd:design-time-name="3eadb31f-ebc0-4dce-9fb6-b81e4655efcc">
+                <KeyColumn dwd:design-time-name="2d7e8490-f051-4c11-a2eb-345e347293a7">
                   <DataType>UnsignedTinyInt</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="5d81cfcc-4bab-494c-81b4-ab27214ef8a5">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="3018498e-ad86-4f1f-85e6-02c26eac300f">
                     <TableID>dbo_FactInternetSalesReason</TableID>
                     <ColumnID>SalesOrderLineNumber</ColumnID>
                   </Source>
@@ -1853,15 +1907,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="9bbdf6e2-6427-47ac-8aac-3a5c647e5d4e">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="cc42b4b9-7b47-49e5-8139-7442db9b34bd">
           <CubeDimensionID>Sales Reason</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="513337e2-1a3b-4c30-93e3-56d50f59224e">
+            <Attribute dwd:design-time-name="4779097f-6b14-4c27-890d-d09d30c658c1">
               <AttributeID>Sales Reason Key</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="8f86bbd5-a51d-43dd-9cf7-e693b80d86d6">
+                <KeyColumn dwd:design-time-name="4d037903-0808-47c5-92d1-54f44827675b">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="b2fa1949-b12c-46e7-8f22-0da1a7812575">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="2ac6a0fa-cb32-43a4-bbc4-4848e732331f">
                     <TableID>dbo_FactInternetSalesReason</TableID>
                     <ColumnID>SalesReasonKey</ColumnID>
                   </Source>
@@ -1874,8 +1928,200 @@
       </Dimensions>
       <Partitions />
     </MeasureGroup>
+    <MeasureGroup dwd:design-time-name="d2be8e12-a181-4d7e-ba9b-9d275e5025c9">
+      <ID>Sales Quotas</ID>
+      <Name>Sales Quotas</Name>
+      <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+      <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+      <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+      <State>Unprocessed</State>
+      <Measures>
+        <Measure dwd:design-time-name="99eacedd-35d4-460d-86ca-4acce06b3ef3">
+          <ID>Calendar Year</ID>
+          <Name>Calendar Year</Name>
+          <Source dwd:design-time-name="4524175a-805c-4931-9dbd-a89c0683bbee">
+            <DataType>Integer</DataType>
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="12ee5c89-4858-48bd-b310-4a7c5d14b2f6">
+              <TableID>dbo_FactSalesQuota</TableID>
+              <ColumnID>CalendarYear</ColumnID>
+            </Source>
+          </Source>
+        </Measure>
+        <Measure dwd:design-time-name="0085ec60-72da-4d34-833d-d15d58357440">
+          <ID>Sales Amount Quota</ID>
+          <Name>Sales Amount Quota</Name>
+          <Source dwd:design-time-name="aa54cd8c-af07-4a48-b400-11f1177fe8cd">
+            <DataType>Double</DataType>
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="1502a989-cc8f-4912-b0b9-cea303feb8b4">
+              <TableID>dbo_FactSalesQuota</TableID>
+              <ColumnID>SalesAmountQuota</ColumnID>
+            </Source>
+          </Source>
+          <FormatString>Currency</FormatString>
+        </Measure>
+        <Measure dwd:design-time-name="f7b6a0c2-5eb0-445d-9337-acfc0480ad36">
+          <ID>Sales Quotas Count</ID>
+          <Name>Sales Quotas Count</Name>
+          <AggregateFunction>Count</AggregateFunction>
+          <Source dwd:design-time-name="cc00ecdd-1575-4b2e-8be0-f0dba9870ea3">
+            <DataType>Integer</DataType>
+            <DataSize>4</DataSize>
+            <Source xsi:type="RowBinding" dwd:design-time-name="e22dbef5-0912-4882-8197-4823751539ba">
+              <TableID>dbo_FactSalesQuota</TableID>
+            </Source>
+          </Source>
+          <FormatString>#,#</FormatString>
+        </Measure>
+      </Measures>
+      <StorageMode>Molap</StorageMode>
+      <ProcessingMode>Regular</ProcessingMode>
+      <Dimensions>
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="09b83025-6c6b-45ce-a244-65e3eab1643e">
+          <CubeDimensionID>Employee</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="6d004e31-42e5-4249-b43d-79cde5d349e1">
+              <AttributeID>Employee</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="484ba0e1-60c1-4b16-a69d-057dca1f8381">
+                  <DataType>Integer</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="6f8f3420-77ad-4922-806c-472e2e7d9af2">
+                    <TableID>dbo_FactSalesQuota</TableID>
+                    <ColumnID>EmployeeKey</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="f27ff00c-90d6-4b3f-ab9b-5b05349adad5">
+          <CubeDimensionID>Sales Territory</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="9f5cb406-1e49-4695-b684-64c9dfaba1f9">
+              <AttributeID>Sales Territory</AttributeID>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+          <IntermediateCubeDimensionID>Employee</IntermediateCubeDimensionID>
+          <IntermediateGranularityAttributeID>Sales Territory Key</IntermediateGranularityAttributeID>
+          <Materialization>Regular</Materialization>
+          <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+        </Dimension>
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="01e7cdfe-3fd2-41c2-83d9-3cd3b7d2b173">
+          <CubeDimensionID>Order Date</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="56cb9f61-9d9c-4854-b35b-6a03243694c1">
+              <AttributeID>Calendar Quarter</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="720e9daa-17ce-4c3c-8328-589f6fc1292e">
+                  <DataType>SmallInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="edf21af9-6bb2-4a1a-8b0f-3bbcc11a70d4">
+                    <TableID>dbo_FactSalesQuota</TableID>
+                    <ColumnID>CalendarYear</ColumnID>
+                  </Source>
+                </KeyColumn>
+                <KeyColumn dwd:design-time-name="65536690-5823-4525-b076-5e05101b5bfa">
+                  <DataType>UnsignedTinyInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="aef90a3a-f6b7-4a73-8e20-d73a42b7a47e">
+                    <TableID>dbo_FactSalesQuota</TableID>
+                    <ColumnID>CalendarQuarter</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+      </Dimensions>
+      <Partitions />
+    </MeasureGroup>
+    <MeasureGroup dwd:design-time-name="37ef1373-1540-4ae8-973e-3801b3a0fdf2">
+      <ID>Sales Quotas 1</ID>
+      <Name>Sales Quotas 1</Name>
+      <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+      <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+      <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+      <State>Unprocessed</State>
+      <Measures>
+        <Measure dwd:design-time-name="0b6c1c65-6e49-42e5-a3e7-7401d0dba540">
+          <ID>Employee Key Distinct Count</ID>
+          <Name>Sales Person Count</Name>
+          <AggregateFunction>DistinctCount</AggregateFunction>
+          <DataType>Integer</DataType>
+          <Source dwd:design-time-name="f5beb262-c1b4-478f-af34-59a086152c3c">
+            <DataType>Integer</DataType>
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="dd64a3ed-a6f1-44dd-ac5f-8448f09f9e26">
+              <TableID>dbo_FactSalesQuota</TableID>
+              <ColumnID>EmployeeKey</ColumnID>
+            </Source>
+          </Source>
+          <FormatString>#,#</FormatString>
+        </Measure>
+      </Measures>
+      <StorageMode>Molap</StorageMode>
+      <ProcessingMode>Regular</ProcessingMode>
+      <Dimensions>
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="00c48195-f5c3-4e41-9616-f3f6d232d3ae">
+          <CubeDimensionID>Employee</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="3f889418-d268-42ec-8a87-767dfd8f8936">
+              <AttributeID>Employee</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="56e9d5c6-fe71-4c50-b0f1-e27f52907b13">
+                  <DataType>Integer</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="8622d1e1-647f-48a7-bd7a-bb1bcfbf2e5f">
+                    <TableID>dbo_FactSalesQuota</TableID>
+                    <ColumnID>EmployeeKey</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="ca4ba196-aaf1-41dc-9d74-bdaafb8a437e">
+          <CubeDimensionID>Sales Territory</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="078cebb9-9d10-48b6-8ed0-654ef41a81d8">
+              <AttributeID>Sales Territory</AttributeID>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+          <IntermediateCubeDimensionID>Employee</IntermediateCubeDimensionID>
+          <IntermediateGranularityAttributeID>Sales Territory Key</IntermediateGranularityAttributeID>
+          <Materialization>Regular</Materialization>
+          <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+        </Dimension>
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="87a3549a-450c-4ebb-aa46-037d75454524">
+          <CubeDimensionID>Order Date</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="b05937df-8648-4420-b35b-2d13de92cd4f">
+              <AttributeID>Calendar Quarter</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="d89179a0-45b6-4182-b476-1db55c013ccd">
+                  <DataType>SmallInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="e529d389-abea-4428-8977-3ddc84a10fe7">
+                    <TableID>dbo_FactSalesQuota</TableID>
+                    <ColumnID>CalendarYear</ColumnID>
+                  </Source>
+                </KeyColumn>
+                <KeyColumn dwd:design-time-name="b2d5380a-45dd-4369-9ec1-4bc8d960f8c8">
+                  <DataType>UnsignedTinyInt</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="435c8e05-b036-4764-ae4e-f3e5748f7fa6">
+                    <TableID>dbo_FactSalesQuota</TableID>
+                    <ColumnID>CalendarQuarter</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+      </Dimensions>
+      <Partitions />
+    </MeasureGroup>
   </MeasureGroups>
-  <Source dwd:design-time-name="518ba379-5e2e-4e99-8669-764a3419a390">
+  <Source dwd:design-time-name="92f5bbbf-2e18-4a87-862a-0b5bb863f508">
     <DataSourceViewID>Adventure Works DW</DataSourceViewID>
   </Source>
 </Cube>
